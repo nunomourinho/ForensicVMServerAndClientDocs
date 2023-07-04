@@ -3,6 +3,6 @@ API
 
 .. autosummary::
    :toctree: generated
-   :::views
+   views
    ForensiVM
 
