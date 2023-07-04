@@ -23,8 +23,7 @@ I would like to emphasize that ForensicVM is an actively developed project. I'm 
 Thank you for choosing ForensicVM. I am confident that it will greatly streamline your forensic investigations and contribute to the success of your work.
 The first step is to install the server. Head to :ref:`installation`
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Check out the :doc:`usage` section for further information, including how to :ref:`installation` the project.
 
 .. note::
 
