@@ -6,7 +6,7 @@ Usage
 Installation
 ------------
 
-To use Lumache, first install it using pip:
+To install forensicVM server, please install debian 11 with the minimal requirements
 
 .. code-block:: console
 
