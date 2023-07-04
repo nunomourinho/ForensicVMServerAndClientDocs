@@ -41,6 +41,8 @@ Contents
    :caption: Api Calls
    :hidden:
 
+   api/apikeys/views
+   api/apikeys/views.py
    api/apikeys
    api/app
    api/modules
