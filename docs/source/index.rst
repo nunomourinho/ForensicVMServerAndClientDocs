@@ -41,4 +41,8 @@ Contents
    :caption: Api Calls
    :hidden:
 
-   api
+   api/apikeys
+   api/app
+   api/modules
+
+
