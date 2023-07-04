@@ -33,6 +33,12 @@ Contents
 --------
 
 .. toctree::
+   :caption: User Manual
+   :hidden:
 
    usage
+
+   :caption: Api Calls
+   :hidden:
+
    api
