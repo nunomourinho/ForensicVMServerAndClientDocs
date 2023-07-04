@@ -20,7 +20,7 @@ Additionally, if you require a deeper understanding of the technical aspects and
 
 I would like to emphasize that ForensicVM is an actively developed project. I'm continuously working on enhancing its capabilities, improving performance, and adding new features. Stay tuned for updates and exciting developments as I strive to deliver the most effective and reliable forensic virtualization solution available.
 
-Thank you for choosing ForensicVM. We are confident that it will greatly streamline your forensic investigations and contribute to the success of your work.
+Thank you for choosing ForensicVM. I am confident that it will greatly streamline your forensic investigations and contribute to the success of your work.
 The first step is to install the server. Head to :ref:`installation`
 
 Check out the :doc:`usage` section for further information, including
