@@ -38,6 +38,9 @@ Contents
 
    usage
 
+   :caption: Developer Manual
+   :hidden:
+
    :caption: Api Calls
    :hidden:
 
