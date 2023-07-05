@@ -36,15 +36,13 @@ Contents
    :caption: User Manual
    :hidden:
    usage
+
+.. toctree::
    :caption: Developer Manual
    :hidden:
    development
+
+.. toctree::
    :caption: Instalation
    :hidden:
    instalation
-   api/apikeys/views   
-   api/apikeys/views.py   
-   api/apikeys      
-   api/modules
-
-
