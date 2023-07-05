@@ -48,14 +48,6 @@ Contents
 --------
 .. toctree::
    :maxdepth: 4
-
-   install
-   support
-
-.. toctree::
-   :caption: User Manual
    usage
-   :caption: Developer Manual
    development
-   :caption: Instalation
    instalation
