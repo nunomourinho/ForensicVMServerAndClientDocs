@@ -1,0 +1,2 @@
+sphinxcontrib-autodocsumm>=0.2.1
+sphinx-autodoc-typehints>=1.12.0
