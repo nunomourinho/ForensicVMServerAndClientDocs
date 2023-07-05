@@ -41,7 +41,7 @@ Contents
 .. toctree::
    :caption: Developer Manual
    :hidden:
-   api/app
+   api
 
 .. toctree::
    :caption: Api Calls
@@ -49,6 +49,8 @@ Contents
 
    api/apikeys/views   
    api/apikeys/views.py   
+
+.. topic:: Title
    api/apikeys      
    api/modules
 
