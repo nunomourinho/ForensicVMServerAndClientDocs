@@ -6,3 +6,5 @@ build-backend = "flit_core.buildapi"
 name = "ForensicVM"
 authors = [{name = "Eng.º Nuno Mourinho", email = "nuno.mourinho@gmail.com"}, {name = "Dr. Rogério Bravo", email = ""}, {name = "Engº. Mário Candeias", email = ""}]
 dynamic = ["version", "description"]
+
+
