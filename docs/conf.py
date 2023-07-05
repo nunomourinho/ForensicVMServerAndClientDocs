@@ -17,8 +17,8 @@ extensions = [
     'sphinx.ext.autodoc',    
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',	
-    'sphinx_autodoc_typehints',
-    'sphinxcontrib.autodocsumm',
+    #'sphinx_autodoc_typehints',
+    #'sphinxcontrib.autodocsumm',
 ]
 
 intersphinx_mapping = {
