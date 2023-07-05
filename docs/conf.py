@@ -4,7 +4,7 @@
 
 project = 'ForensicVM'
 copyright = '2023, Nuno Mourinho'
-author = 'Nuno Mourinho'
+author = 'Nuno Mourinho, Mario Candeias, Rogério Bravo'
 
 release = '1.0'
 version = '1.0.0'
@@ -16,11 +16,9 @@ extensions = [
     'sphinx.ext.doctest',
     'sphinx.ext.autodoc',    
     'sphinx.ext.autosummary',
-    'sphinx.ext.intersphinx',
-	#'sphinx.ext.autodoc',
-    #'sphinx.ext.autosummary',
-    #'sphinx_autodoc_typehints',
-    #'sphinxcontrib.autodocsumm',
+    'sphinx.ext.intersphinx',	
+    'sphinx_autodoc_typehints',
+    'sphinxcontrib.autodocsumm',
 ]
 
 intersphinx_mapping = {
