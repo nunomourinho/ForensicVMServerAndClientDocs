@@ -48,6 +48,9 @@ Check out the :doc:`usage` section for further information, including how to :re
 .. toctree::
    :maxdepth: 2
 
-   development
    instalation
    usage
+   development
+     api
+
+
