@@ -41,11 +41,13 @@ Contents
 .. toctree::
    :caption: Developer Manual
    :hidden:
-   api
+   development
 
 .. toctree::
-   :caption: Api Calls
+   :caption: Instalation
    :hidden:
+   instalation
+   
 
    api/apikeys/views   
    api/apikeys/views.py   
