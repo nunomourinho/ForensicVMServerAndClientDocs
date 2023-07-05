@@ -47,7 +47,8 @@ Check out the :doc:`usage` section for further information, including how to :re
 Contents
 --------
 .. toctree::
-   :maxdepth: 4
-   usage
+   :maxdepth: 2
+
    development
    instalation
+   usage
