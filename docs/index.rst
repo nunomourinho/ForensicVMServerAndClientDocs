@@ -31,18 +31,11 @@ Check out the :doc:`usage` section for further information, including how to :re
 
 .. TIP::
 
-    If this command aborts with an error, please consult the :ref:`Docker
-    troubleshooting guide <docker-troubleshooting>`. You are also
-    welcome to learn more about :ref:`resource_constraints` with respect
-    to running CrateDB within containers.
+    This is a tip
 
 .. CAUTION::
 
-    This type of invoking CrateDB will get you up and running quickly.
-
-    Please note, by default, the CreateDB Docker container is ephemeral, so
-    data will not be stored in a persistent manner. When stopping the
-    container, all data will be lost.
+    This is a warning
 
 
 .. toctree::
@@ -51,6 +44,6 @@ Check out the :doc:`usage` section for further information, including how to :re
    instalation
    usage
    development
-     api
+   api
 
 
