@@ -45,9 +45,13 @@ Contents
    :hidden:
 
    api/apikeys/views
+   usage
    api/apikeys/views.py
+   usage
    api/apikeys
+   usage
    api/app
+   usage
    api/modules
 
 
