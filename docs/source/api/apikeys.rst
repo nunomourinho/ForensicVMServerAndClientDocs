@@ -1,16 +1,17 @@
 apikeys package
 ===============
 
-Subpackages
------------
-
-.. toctree::
-   :maxdepth: 4
-
-   apikeys.migrations
-
 Submodules
 ----------
+
+apikeys.views module
+--------------------
+
+.. automodule:: apikeys.views
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
 
 apikeys.admin module
 --------------------
@@ -44,26 +45,10 @@ apikeys.serializers module
    :undoc-members:
    :show-inheritance:
 
-apikeys.tests module
---------------------
-
-.. automodule:: apikeys.tests
-   :members:
-   :undoc-members:
-   :show-inheritance:
-
 apikeys.urls module
 -------------------
 
 .. automodule:: apikeys.urls
-   :members:
-   :undoc-members:
-   :show-inheritance:
-
-apikeys.views module
---------------------
-
-.. automodule:: apikeys.views
    :members:
    :undoc-members:
    :show-inheritance:
