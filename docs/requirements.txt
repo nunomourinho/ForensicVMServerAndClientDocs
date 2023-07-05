@@ -1,2 +1,3 @@
-sphinxcontrib-autodocsumm>=0.2.1
-sphinx-autodoc-typehints>=1.12.0
+sphinxcontrib-autodocsumm==0.2.11
+sphinx-autodoc-typehints==1.23.3
+sphinx-autodoc2==0.4.2
