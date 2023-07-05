@@ -44,8 +44,7 @@ Check out the :doc:`usage` section for further information, including how to :re
     data will not be stored in a persistent manner. When stopping the
     container, all data will be lost.
 
-Contents
---------
+
 .. toctree::
    :maxdepth: 2
 
