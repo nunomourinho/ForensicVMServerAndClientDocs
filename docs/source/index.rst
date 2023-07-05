@@ -38,20 +38,18 @@ Contents
 
    usage
 
+.. toctree::
    :caption: Developer Manual
    :hidden:
+   api/app
 
+.. toctree::
    :caption: Api Calls
    :hidden:
 
-   api/apikeys/views
-   usage
-   api/apikeys/views.py
-   usage
-   api/apikeys
-   usage
-   api/app
-   usage
+   api/apikeys/views   
+   api/apikeys/views.py   
+   api/apikeys      
    api/modules
 
 
