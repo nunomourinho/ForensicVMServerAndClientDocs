@@ -14,10 +14,13 @@ version = '1.0.0'
 extensions = [
     'sphinx.ext.duration',
     'sphinx.ext.doctest',
-    'sphinx.ext.autodoc',
-    'autodocsumm',
+    'sphinx.ext.autodoc',    
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+	'sphinx.ext.autodoc',
+    'sphinx.ext.autosummary',
+    'sphinx_autodoc_typehints',
+    'sphinxcontrib.autodocsumm',
 ]
 
 intersphinx_mapping = {
