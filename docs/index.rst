@@ -39,7 +39,7 @@ Check out the :doc:`usage` section for further information, including how to :re
 
 .. toctree::
    :maxdepth: 2
-   :caption: Table of Contents
+   :caption: User Manual
 
    Introduction <introduction>
    Getting Started <getting_started>
@@ -48,6 +48,6 @@ Check out the :doc:`usage` section for further information, including how to :re
 
 .. toctree::
    :maxdepth: 2
-   :caption: Table of Contents
+   :caption: Api reference
 
-   Api dcoumentation <api/index>
+   Api documentation <api/index>
