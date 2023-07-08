@@ -2,16 +2,20 @@
 System Requirements
 ====================
 
-To ensure that ForensicVM runs smoothly on your system, your computer should meet or exceed the following requirements.
+To ensure that ForensicVM runs smoothly on your system, your computer and your server should meet or exceed the following requirements.
+
+
+Computer Requirements
+----------------------
 
 Operating System
 --------------------
 
-ForensicVM supports the following operating systems:
+ForensicVM was tested and supports the following operating systems:
 
 - Windows 10 or later
-- macOS High Sierra (10.13) or later
-- Linux (Debian 10, Ubuntu 18.04 or later)
+- Autopsy 4.20 or later
+
 
 Processor
 --------------------
@@ -26,8 +30,9 @@ Memory
 Storage
 --------------------
 
-- A minimum of 20 GB of free disk space is needed for the ForensicVM installation.
+- A minimum of 1 GB of free disk space is needed for the ForensicVM installation.
 - Additional storage will be required for forensic images. The amount will depend on the size of the images you will be working with.
+- The use of Nvme or SSD is not strictly necessary but recommend as it speeds up the aquisition processes.
 
 Networking
 --------------------
@@ -37,17 +42,15 @@ Networking
 Display
 --------------------
 
-- A display with a resolution of 1280x1024 or higher is recommended for the best experience.
+- A display with a resolution of 1980x1080 or higher is recommended for the best experience. If possible use a two monitor setup; one for the Autopsy plugin, and the other for forensicVM server control.
+
 
 Software Dependencies
 --------------------
 
-- If you're using the Windows version, .NET Framework 4.7.2 or later is required.
-- If you're using the Linux version, you must have the GTK3 libraries installed.
+- Install previously the Autopsy 4.20 or higher
 
 Additional Notes
 --------------------
 
 - ForensicVM requires administrator or root privileges for installation and running certain high-privilege operations.
-- For optimal performance, it is recommended to run ForensicVM on a dedicated machine, especially when working with larger forensic images.
-
