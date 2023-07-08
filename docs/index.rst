@@ -41,29 +41,29 @@ Check out the :doc:`usage` section for further information, including how to :re
    :maxdepth: 2
    :caption: User Manual
 
-   Introduction <introduction>
-   Getting Started <getting_started>
-   System Requirements <system_requirements> 
-   Product Overview <product_overview/product_overview>
-   Using ForensicVM <using_forensicvm>
-   Forensic Image Life Cycle <forensic_image_life_cycle>
+   Introduction <user/introduction>
+   Getting Started <user/getting_started>
+   System Requirements <user/system_requirements> 
+   Product Overview <user/product_overview/product_overview>
+   Using ForensicVM <user/using_forensicvm>
+   Forensic Image Life Cycle <user/forensic_image_life_cycle>
 
 .. toctree::
    :maxdepth: 2
-   :caption: Table of Contents
+   :caption: Administration Manual
 
-   Introduction <introduction>
-   System Overview <system_overview>
-   Installation and Setup <installation_and_setup>
-   Managing Users <managing_users>
-   Configuring ForensicVM <configuring_forensicvm>
-   Network Setup <network_setup>
-   Storage Management <storage_management>
-   Monitoring and Performance Tuning <monitoring_and_performance_tuning>
-   Backup and Recovery <backup_and_recovery>
-   System Updates and Maintenance <system_updates_and_maintenance>
-   Security and Compliance <security_and_compliance>
-   Troubleshooting <troubleshooting>
-   Glossary <glossary>
-   Index <index>
-   Appendix <appendix>
+   Introduction <admin/introduction>
+   System Overview <admin/system_overview>
+   Installation and Setup <admin/installation_and_setup>
+   Managing Users <admin/managing_users>
+   Configuring ForensicVM <admin/configuring_forensicvm>
+   Network Setup <admin/network_setup>
+   Storage Management <admin/storage_management>
+   Monitoring and Performance Tuning <admin/monitoring_and_performance_tuning>
+   Backup and Recovery <admin/backup_and_recovery>
+   System Updates and Maintenance <admin/system_updates_and_maintenance>
+   Security and Compliance <admin/security_and_compliance>
+   Troubleshooting <admin/troubleshooting>
+   Glossary <admin/glossary>
+   Index <admin/index>
+   Appendix <admin/appendix>
