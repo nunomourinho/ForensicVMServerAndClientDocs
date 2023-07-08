@@ -1,3 +1,5 @@
+.. _plugin-documentation:
+
 Plugin Architecture
 ======================
 
