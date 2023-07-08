@@ -22,6 +22,6 @@ Plugin Architecture
 ======================
 
 ForensicVM supports a plugin architecture that allows developers from the community to extend its functionality. These plugins can interact with forensic images to perform tasks such as password reset, hibernation file removal, and data extraction. By allowing users to add new capabilities through plugins, ForensicVM becomes a versatile tool that can be customized to fit a variety of use cases.  
-
+For more details, refer to the :ref:`plugin-documentation`.
 
 
