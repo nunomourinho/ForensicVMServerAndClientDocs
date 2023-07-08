@@ -70,7 +70,7 @@ Check out the :doc:`usage` section for further information, including how to :re
    Glossary <admin/glossary>
    Index <admin/index>
    Appendix <admin/appendix>
-   Index <admin/typset>
+   Typeset <admin/typset>
 
 
 .. table:: Table 1
