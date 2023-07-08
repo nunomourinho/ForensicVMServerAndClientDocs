@@ -6,6 +6,13 @@ Creation
 
 Describe here how to create a forensic image using ForensicVM.
 
+
+Conversion to a forensicVM
+------------
+
+Describe here how to convert a  forensic image in the ForensicVM environment.
+
+
 Execution
 ------------
 
