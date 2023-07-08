@@ -42,6 +42,6 @@ Check out the :doc:`usage` section for further information, including how to :re
    :caption: Table of Contents
 
    Introduction <introduction>
-   Product Overview <product_overview>
+   Product Overview <product_overview/product_overview>
 
 
