@@ -57,10 +57,3 @@ Additional Notes
    ForensicVM requires administrator or root privileges for installation and running certain high-privilege operations like creating readonly windows shares!
 
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Autopsy plugin and server requirements
-
-   Autopsy plugin requirements <plugin_requirements>
-   Server requirements <server_requirements>
-
