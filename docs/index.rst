@@ -43,11 +43,9 @@ Check out the :doc:`usage` section for further information, including how to :re
 
    Introduction <introduction>
    Getting Started <getting_started>
+   System Requirements <system_requirements> 
    Product Overview <product_overview/product_overview>
    Using ForensicVM <using_forensicvm>
+   Forensic Image Life Cycle <forensic_image_life_cycle>
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Api reference
 
-   Api documentation <api/index>
