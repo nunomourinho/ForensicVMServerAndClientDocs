@@ -53,4 +53,7 @@ Software Dependencies
 Additional Notes
 --------------------
 
-- ForensicVM requires administrator or root privileges for installation and running certain high-privilege operations.
+.. IMPORTANT::
+   ForensicVM requires administrator or root privileges for installation and running certain high-privilege operations like creating readonly windows shares!
+
+
