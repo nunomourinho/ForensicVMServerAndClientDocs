@@ -1,8 +1,11 @@
 Welcome to ForensicVM documentation!
 ===================================
-.. image:: img/001-logo.jpg
-    :target: img/001-logo.jpg
-    :alt: ForensicVM
+.. figure:: img/001-logo.jpg
+   :alt: ForensicVM logo
+   :width: 50%
+   :align: center
+
+   Forensic VM logo
 
 **ForensicVM** is a comprehensive project designed to assist forensic investigators in the virtualization of forensic images. By utilizing advanced technologies and tools, ForensicVM simplifies the process of analyzing and examining digital evidence in a virtualized environment.
 
@@ -67,3 +70,15 @@ Check out the :doc:`usage` section for further information, including how to :re
    Glossary <admin/glossary>
    Index <admin/index>
    Appendix <admin/appendix>
+
+
+.. table:: Table 1
+   :widths: auto
+
+   +--------+--------+--------+
+   | Header | Header | Header |
+   +========+========+========+
+   | Cell   | Cell   | Cell   |
+   +--------+--------+--------+
+   | Cell   | Cell   | Cell   |
+   +--------+--------+--------+
