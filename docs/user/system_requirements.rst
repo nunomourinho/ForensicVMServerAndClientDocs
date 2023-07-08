@@ -48,7 +48,7 @@ Display
 Software Dependencies
 --------------------
 
-- Install previously the Autopsy 4.20 or higher
+- Install Autopsy 4.20 or higher
 
 Additional Notes
 --------------------
