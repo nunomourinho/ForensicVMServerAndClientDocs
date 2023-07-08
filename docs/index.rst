@@ -46,8 +46,8 @@ Check out the :doc:`usage` section for further information, including how to :re
    Product Overview <product_overview/product_overview>
    Using ForensicVM <using_forensicvm>
 
-.. raw:: html
+.. toctree::
+   :maxdepth: 2
+   :caption: Table of Contents
 
-   <li>
-      <a href="html/index.html">API Documentation</a>
-   </li>   
+   Api dcoumentation <api/index>
