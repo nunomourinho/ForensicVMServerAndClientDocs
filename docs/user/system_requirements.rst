@@ -58,7 +58,7 @@ Additional Notes
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Autopsy plugin and server requirements
 
    Autopsy plugin requirements <plugin_requirements>

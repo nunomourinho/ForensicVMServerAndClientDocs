@@ -41,7 +41,7 @@ Check out the :doc:`usage` section for further information, including how to :re
     This is a warning
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: User Manual
 
    Introduction <user/introduction>
@@ -52,7 +52,7 @@ Check out the :doc:`usage` section for further information, including how to :re
    Forensic Image Life Cycle <user/forensic_image_life_cycle>
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Administration Manual
 
    Introduction <admin/introduction>
