@@ -37,13 +37,10 @@ Check out the :doc:`usage` section for further information, including how to :re
 
     This is a warning
 
-
 .. toctree::
    :maxdepth: 2
+   :caption: Table of Contents
 
-   instalation
-   usage
-   development
-   api
+   Introduction <introduction>
 
 
