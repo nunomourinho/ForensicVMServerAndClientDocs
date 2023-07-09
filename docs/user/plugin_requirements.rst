@@ -25,7 +25,7 @@ Processor
 Memory
 --------------------
 
-- A minimum of 8 GB RAM is required, but 16 GB or more is recommended for handling larger forensic images.
+- A minimum of 16 GB RAM is required. From the oficial autopsy documentation website: "We recommend a minimum of 16GB of RAM. By default, Autopsy will use a maximum of 4GB of RAM (not including memory that the Solr text indexing server uses)."
 
 Storage
 --------------------
