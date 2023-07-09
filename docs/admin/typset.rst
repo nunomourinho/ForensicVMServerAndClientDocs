@@ -110,16 +110,16 @@ I recommend you try |Python|_.
 .. |Python| replace:: Python, *the* best language around
 .. _Python: https://www.python.org/
 
-Copyright |copy| 2003, |BogusMegaCorp (TM)| |---|
+Copyright |copy| 2023, |ForensicVM (c)| |---|
 all rights reserved.
 
 .. |copy| unicode:: 0xA9 .. copyright sign
-.. |BogusMegaCorp (TM)| unicode:: BogusMegaCorp U+2122
+.. |ForensicVM (c)| unicode:: ForensicVM U+2122
    .. with trademark sign
 .. |---| unicode:: U+02014 .. em dash
    :trim:
 
-   .. |date| date::
+.. |date| date::
 .. |time| date:: %H:%M
 
 Today's date is |date|.
