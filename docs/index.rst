@@ -33,9 +33,9 @@ Check out the :doc:`usage` section for further information, including how to :re
    :caption: User Manual
 
    Introduction <user/introduction>
+   System Requirements <user/system_requirements>    
    Getting Started <user/getting_started>
-   System Requirements <user/system_requirements> 
-   Product Overview <user/product_overview/product_overview>
+   Product Overview <user/product_overview/product_overview>      
    Using ForensicVM <user/using_forensicvm>
    Forensic Image Life Cycle <user/forensic_image_life_cycle>
 
