@@ -5,6 +5,7 @@ This section will guide you through the steps necessary to install and set up Fo
 
 Installation Steps
 ------------------
+.. _installation:
 To install ForensicVM...
 
 Initial Setup
