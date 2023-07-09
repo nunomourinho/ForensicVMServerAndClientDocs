@@ -28,18 +28,6 @@ The first step is to install the server. Head to :ref:`installation`
 
 Check out the :doc:`usage` section for further information, including how to :ref:`installation` the project.
 
-.. note::
-
-   This project is under active development and testing.
-
-.. TIP::
-
-    This is a tip
-
-.. CAUTION::
-
-    This is a warning
-
 .. toctree::
    :maxdepth: 3
    :caption: User Manual
@@ -71,15 +59,3 @@ Check out the :doc:`usage` section for further information, including how to :re
    Index <admin/index>
    Appendix <admin/appendix>
    Typeset <admin/typset>
-
-
-.. table:: Table 1
-   :widths: auto
-
-   +--------+--------+--------+
-   | Header | Header | Header |
-   +========+========+========+
-   | Cell   | Cell   | Cell   |
-   +--------+--------+--------+
-   | Cell   | Cell   | Cell   |
-   +--------+--------+--------+
