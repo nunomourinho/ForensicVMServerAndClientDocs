@@ -4,7 +4,7 @@
 
 project = 'ForensicVM'
 copyright = '2023, Nuno Mourinho'
-author = 'Eng. Nuno Mourinho & Eng. Mario Candeias & Dr. Rogério Matos Bravo'
+author = 'Eng. Nuno Mourinho, Eng. Mario Candeias, Dr. Rogério Matos Bravo'
 
 release = '1.0'
 version = '1.0.0'
@@ -29,7 +29,14 @@ intersphinx_disabled_domains = ['std']
 
 templates_path = ['_templates']
 
-# -- Options for HTML output
+html_theme_options = {
+    # Other options...
+    'authors': [
+        'Eng. Nuno Mourinho',
+        'Eng. Mario Candeias',
+        'Dr. Rogério Matos Bravo',
+    ],
+}
 
 html_theme = 'sphinx_rtd_theme'
 
