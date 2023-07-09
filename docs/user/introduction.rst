@@ -13,7 +13,7 @@ Overview of Features
 ForensicVM offers a range of features designed to enhance the forensic analysis process:
 
 - **Virtualization of Forensic Images**: ForensicVM enables the creation and management of virtualized instances of forensic images, paving the way for a more flexible and scalable analysis process. This virtualization can be executed either through a snapshot linked to the investigator's storage for quick selection or by full conversion, which transfers and converts the image to a remote server to maximize the VM's performance and features.
-- **Forensic Image Lifecycle Management**: ForensicVM equips users with tools for managing every step of a forensic image's lifecycle, from creation to decommissioning.
+- **Forensic Image Lifecycle Management**: ForensicVM equips users with tools for managing every step of a forensic image's lifecycle, from creation to decommissioning. Convert the forensic image into a VM, start, stop, reset, snapshot, and safely delete the forensic image when it is no longer required.
 - **Advanced Analysis Tools**: Equipped with a suite of powerful analysis tools, ForensicVM assists investigators in uncovering vital evidence.
 - **Integrated Hypervisor**: The ForensicVM Server features a robust hypervisor based on QEMU and KVM to guarantee efficient execution and management of virtual machines.
 - **Collaboration**: ForensicVM employs a web development strategy that fosters remote and secure collaboration among forensic investigators. This method enables team members, regardless of their location, to work simultaneously on investigations in a digital space, enhancing productivity and communication. It leverages advanced encryption and security protocols to ensure that all collaborative efforts remain secure and confidential, protecting the integrity of investigations. In essence, ForensicVM's approach melds convenience, connectivity, and security, revolutionizing the way forensic investigations are conducted.
@@ -26,7 +26,6 @@ ForensicVM offers a range of features designed to enhance the forensic analysis 
 - **Media Management**: ISO management allows investigators to use their own tools during the investigation.
 - **Snapshot Management**: Freeze the VM in time and recall a previous state to perform "what if" tests.
 - **Fine-tuning**: Adjust machine memory size and set the VM start date as needed.
-- **Forensic Image Lifecycle**: Convert the forensic image into a VM, start, stop, reset, snapshot, and safely delete the forensic image when it is no longer required.
 
 .. WARNING::
    The network card is currently a work-in-progress. Under certain circumstances, the firewall rules may fail, potentially exposing your network to malicious actors. Please note that although the network safeguards your internal system, your external IP may still be visible if a C2C client is installed. Proceed with caution.
