@@ -2,7 +2,7 @@ Welcome to ForensicVM documentation!
 ===================================
 .. figure:: img/001-logo.jpg
    :alt: ForensicVM logo
-   :width: 50%
+   :width: 100%
    :align: center
 
    Forensic VM logo
