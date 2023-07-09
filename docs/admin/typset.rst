@@ -2,37 +2,35 @@
 Typset
 =======
 
-Based on:
-https://docutils.sourceforge.io/docs/ref/rst/directives.html#topic
-
+The following typeset is used in this document, based on https://docutils.sourceforge.io/docs/ref/rst/directives.html#topic
 
 .. DANGER::
-   Beware killer rabbits!
+   Denotes actions that could result in serious harm or damage.
 
 .. CAUTION::
-   Beware killer rabbits!
+   Signifies a potential hazard or cautionary advice.
 
 .. ERROR::
-   Beware killer rabbits!
+   Marks an error in the system that needs rectification.
 
 .. HINT::
-   Beware killer rabbits!
+   Highlights key information that requires special attention.
 
 .. IMPORTANT::
-   Beware killer rabbits!
+   Something important to notice!
 
 .. NOTE::
-   Beware killer rabbits!
+   Offers additional, auxiliary information that may be useful to the reader.
 
 .. TIP::
-   Beware killer rabbits!
+   Presents a smart or strategic suggestion to achieve a task more effectively.
 
 .. WARNING::
-   Beware killer rabbits!
+   Warns about a potential pitfall or danger that must be avoided.
 
-.. admonition:: And, by the way...
+.. admonition:: Additional Information
 
-   You can make up your own admonition too.
+   Provides an extra piece of related, explanatory information.
 
 .. topic:: Topic Title
 
@@ -119,7 +117,7 @@ all rights reserved.
 .. |---| unicode:: U+02014 .. em dash
    :trim:
 
-.. |date| date::
+.. |date| date:: "%Y/%m/%d"
 .. |time| date:: %H:%M
 
 Today's date is |date|.
