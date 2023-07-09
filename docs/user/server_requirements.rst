@@ -1,6 +1,6 @@
-====================
-System Requirements
-====================
+==============================
+ForensicVM server requirements
+==============================
 
 To ensure that ForensicVM runs smoothly on your system, your computer and your server should meet or exceed the following requirements.
 
