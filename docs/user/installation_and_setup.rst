@@ -52,7 +52,7 @@ Here are the screenshots that illustrate the installation process:
 
    Welcome Screen
 
-.. figure:: user/img/0002.JPG
+.. figure:: img/0002.JPG
    :alt: Component Installation
    :align: center
 
@@ -64,7 +64,7 @@ Here are the screenshots that illustrate the installation process:
 
    Plugin Location
 
-.. figure:: docs/user/img/0004.JPG
+.. figure:: img/0004.JPG
    :alt: Finish Screen
    :align: center
 
