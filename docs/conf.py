@@ -4,7 +4,7 @@
 
 project = 'ForensicVM'
 copyright = '2023, Nuno Mourinho'
-author = 'Eng. Nuno Mourinho, Eng. Mario Candeias, Dr. Rogério Matos Bravo'
+author = 'Eng. Nuno Mourinho, Eng. Mario Candeias, Dr. Rogério Bravo'
 
 release = '1.0'
 version = '1.0.0'
