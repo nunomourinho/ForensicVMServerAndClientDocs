@@ -35,7 +35,8 @@ Check out the :doc:`usage` section for further information, including how to :re
    Introduction <user/introduction>
    System Requirements <user/system_requirements>    
    Getting Started <user/getting_started>
-   Product Overview <user/product_overview/product_overview>      
+   Product Overview <user/product_overview/product_overview>     
+   Installation and Setup <user/installation_and_setup>
    Using ForensicVM <user/using_forensicvm>
    Forensic Image Life Cycle <user/forensic_image_life_cycle>
 
