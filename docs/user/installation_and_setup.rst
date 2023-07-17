@@ -46,25 +46,25 @@ Screenshots
 
 Here are the screenshots that illustrate the installation process:
 
-.. figure:: img/0001.jpg
+.. figure:: user/img/0001.jpg
    :alt: Welcome Screen
    :align: center
 
    Welcome Screen
 
-.. figure:: img/0002.jpg
+.. figure:: user/img/0002.jpg
    :alt: Component Installation
    :align: center
 
    Component Installation
 
-.. figure:: img/0003.jpg
+.. figure:: user/img/0003.jpg
    :alt: Plugin Location
    :align: center
 
    Plugin Location
 
-.. figure:: img/0004.jpg
+.. figure:: user/img/0004.jpg
    :alt: Finish Screen
    :align: center
 
