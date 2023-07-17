@@ -46,30 +46,25 @@ Screenshots
 
 Here are the screenshots that illustrate the installation process:
 
-.. figure:: img/0001.jpg
+.. figure:: img/0001.JPG
    :alt: Welcome Screen
    :align: center
 
-.. image:: img/0001.jpg
-    :width: 350
-    :alt: The Great Sphinx and Pyramids of Gizeh (Giza) by David Roberts
-    :align: center
-
    Welcome Screen
 
-.. figure:: user/img/0002.jpg
+.. figure:: user/img/0002.JPG
    :alt: Component Installation
    :align: center
 
    Component Installation
 
-.. figure:: img/0003.jpg
+.. figure:: img/0003.JPG
    :alt: Plugin Location
    :align: center
 
    Plugin Location
 
-.. figure:: docs/user/img/0004.jpg
+.. figure:: docs/user/img/0004.JPG
    :alt: Finish Screen
    :align: center
 
