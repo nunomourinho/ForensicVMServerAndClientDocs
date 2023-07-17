@@ -46,9 +46,14 @@ Screenshots
 
 Here are the screenshots that illustrate the installation process:
 
-.. figure:: 0001.jpg
+.. figure:: img/0001.jpg
    :alt: Welcome Screen
    :align: center
+
+.. image:: img/0001.jpg
+    :width: 350
+    :alt: The Great Sphinx and Pyramids of Gizeh (Giza) by David Roberts
+    :align: center
 
    Welcome Screen
 
