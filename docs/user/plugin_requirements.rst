@@ -37,7 +37,7 @@ Storage
 Networking
 --------------------
 
-- A network connection is needed for software updates and for accessing cloud-stored forensic images.
+- A network connection is required for software updates and to access cloud-stored forensic images. Additionally, a robust internet connection with high upload speeds is necessary to expedite the virtualization process if there is a need to convert forensic images into forensic VMs.
 
 Display
 --------------------
