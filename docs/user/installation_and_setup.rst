@@ -75,4 +75,126 @@ Here are the screenshots that illustrate the installation process:
 
 Initial Setup
 -------------
-After successfully installing ForensicVM...
+After successfully installing ForensicVM one needs to configure the AutopsyVM plugin. The initial configuration is composed of the following steps:
+
+1. Autopsy: Add datasource
+1.1. Add datasource
+1.2. Specify a new hostname
+1.3. Next
+2. Disk Image or VM File
+3. 
+4. 
+
+.. figure:: img/setup_0001.jpg
+   :alt: Add datasource
+   :align: center
+
+   Add datasource
+
+.. figure:: img/setup_0002.jpg
+   :alt: Disk Image
+   :align: center
+
+   Disk Image
+
+.. figure:: img/setup_0003.jpg
+   :alt: Welcome Screen
+   :align: center
+
+   Welcome Screen
+
+.. figure:: img/setup_0004.jpg
+   :alt: Welcome Screen
+   :align: center
+
+   Welcome Screen
+
+.. figure:: img/setup_0005.jpg
+   :alt: Welcome Screen
+   :align: center
+
+   Welcome Screen
+
+.. figure:: img/setup_0006.jpg
+   :alt: Welcome Screen
+   :align: center
+
+   Welcome Screen
+
+.. figure:: img/setup_0007.jpg
+   :alt: Welcome Screen
+   :align: center
+
+   Welcome Screen
+
+.. figure:: img/setup_0008.jpg
+   :alt: Welcome Screen
+   :align: center
+
+   Welcome Screen
+
+.. figure:: img/setup_0009.jpg
+   :alt: Welcome Screen
+   :align: center
+
+   Welcome Screen
+
+.. figure:: img/setup_0010.jpg
+   :alt: Welcome Screen
+   :align: center
+
+   Welcome Screen
+
+.. figure:: img/setup_0011.jpg
+   :alt: Welcome Screen
+   :align: center
+
+   Welcome Screen
+
+.. figure:: img/setup_0012.jpg
+   :alt: Welcome Screen
+   :align: center
+
+   Welcome Screen
+
+.. figure:: img/setup_0013.jpg
+   :alt: Welcome Screen
+   :align: center
+
+   Welcome Screen
+
+.. figure:: img/setup_0014.jpg
+   :alt: Welcome Screen
+   :align: center
+
+   Welcome Screen
+
+.. figure:: img/setup_0015.jpg
+   :alt: Welcome Screen
+   :align: center
+
+   Welcome Screen
+
+.. figure:: img/setup_0016.jpg
+   :alt: Welcome Screen
+   :align: center
+
+   Welcome Screen
+
+.. figure:: img/setup_0017.jpg
+   :alt: Welcome Screen
+   :align: center
+
+   Welcome Screen
+
+.. figure:: img/setup_0018.jpg
+   :alt: Welcome Screen
+   :align: center
+
+   Welcome Screen
+
+.. figure:: img/setup_0019.jpg
+   :alt: Welcome Screen
+   :align: center
+
+   Welcome Screen
