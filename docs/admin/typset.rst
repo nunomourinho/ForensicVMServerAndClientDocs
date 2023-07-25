@@ -3,6 +3,7 @@ Typset
 =======
 
 The following typeset is used in this document, based on https://docutils.sourceforge.io/docs/ref/rst/directives.html#topic
+and in https://sublime-and-sphinx-guide.readthedocs.io/en/latest/indices.html
 
 .. DANGER::
    Denotes actions that could result in serious harm or damage.
