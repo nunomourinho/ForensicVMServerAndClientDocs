@@ -12,7 +12,6 @@ build:
     python: "3.11"  # Keep in sync with .github/workflows/checks.yml
 
 
-python:
-  install:
-    - method: pip
-      path: .
+ python:
+    install:
+    - requirements: docs/requirements.txt
