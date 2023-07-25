@@ -1,7 +1,7 @@
 =====================
 Installation and Setup
 =====================
-This section will guide you through the steps necessary to install and set up ForensicVM on your system...
+This section will guide you through the steps necessary to install and set up ForensicVM on your system.
 
 Installation Steps
 ------------------
@@ -77,19 +77,20 @@ Initial Setup
 -------------
 After successfully installing ForensicVM one needs to configure the AutopsyVM plugin. The initial configuration is composed of the following steps:
 
-1. Autopsy: Add datasource
-1.1. Add datasource
-1.2. Specify a new hostname
-1.3. Next
-2. Disk Image or VM File
-3. 
-4. 
+#. Autopsy: Add a new datasource to Autopsy. This new datasource is the forensic image that we need to convert to a forensicVM
+ #. Add datasource
+ #. Specify a new hostname
+ #. Next
 
-.. figure:: img/setup_0001.jpg
-   :alt: Add datasource
-   :align: center
+ .. figure:: img/setup_0001.jpg
+    :alt: Add datasource
+    :align: center
 
-   Add datasource
+    Add a new datasource to Autopsy
+ 
+#. Disk Image or VM File
+
+
 
 .. figure:: img/setup_0002.jpg
    :alt: Disk Image
