@@ -1,6 +1,6 @@
 setuptools
 pillow 
-sphinx-autodoc-typehints==1.23.3
+#sphinx-autodoc-typehints==1.23.3
 sphinx-autodoc2==0.4.2
 mock==1.0.1 
 alabaster>=0.7,<0.8,!=0.7.5 
