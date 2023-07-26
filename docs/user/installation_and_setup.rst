@@ -294,4 +294,10 @@ At this step, you should confirm that the Windows Share over SSH is working corr
 
    Testing the ForensicVM Image Windows Share over SSH
 
-With this, you have successfully completed the installation and initial setup of ForensicVM. Happy investigating!
+With this, you have successfully completed the installation and initial setup of ForensicVM. You can start investigating!
+
+.. CAUTION::
+   Ensure to use a secure Windows username and password for your share. Although this share is protected over the internet by your SSH private key, on the Windows network, your username and password could be a potential vulnerability. We recommend a dedicated, strong username and password for your share, which can be reused for multiple forensic image shares if necessary.
+
+.. NOTE::
+   Please configure your firewall to allow local access to your Windows shares. You can restrict the Windows share to be accessible only by your own computer. If needed, please seek assistance from your system administrator to perform this task.
