@@ -293,8 +293,8 @@ Step 19: Testing the forensicVM image Windows share over ssh
    Testing the forensicVM image Windows share over ssh
 
 .. CAUTION::
-   Please use a safe Windows username and password for your share. This share is protected over the internet by your ssh private key. But on the Windows network, your username and password are the weakest link. It is advised to use a dedicated strong username and password for your share. You can reuse the same name and password for multiple forensic image shares if necessary.
+   Ensure to use a secure Windows username and password for your share. Although this share is protected over the internet by your SSH private key, on the Windows network, your username and password could be a potential vulnerability. We recommend a dedicated, strong username and password for your share, which can be reused for multiple forensic image shares if necessary.
 
 .. NOTE::
-   Please configure your firewall to allow local access to your Windows shares. Since only local pc access is needed you can restrict the Windows share to be only accessible by your own computer. If necessary please contact your system administrator to perform this task.
+   Please configure your firewall to allow local access to your Windows shares. You can restrict the Windows share to be accessible only by your own computer. If needed, please seek assistance from your system administrator to perform this task.
    
