@@ -135,60 +135,113 @@ Step 5: Open yout forensicVM Server web address in admin. Ex: https://<ip-or-web
 
    Configure inject - Select ForensicVM Client plugin
 
+Step 6: Add  a new user
+------------------------
+ #. Enter user, password and password confirmation dialogs
+ #. Click SAVE
 
 .. figure:: img/setup_0006.jpg
-   :alt: ForensicVM Server Login Screen
+   :alt: Add user
    :align: center
 
-   Login screen
+   Add user
+
+Step 7: Add  a new api key to the user
+---------------------------------------
+ #. Click the add button on the api keys
+ #. Select the user
+ #. Click the plus sign
+
 
 .. figure:: img/setup_0007.jpg
-   :alt: Welcome Screen
+   :alt: Add api key to user
    :align: center
 
-   Welcome Screen
+   Add api key to user
+
+Step 8: Copy user api key
+------------------------------------
+ #. Select the newly created api key
+ #. Press CTRL + C or copy it using the right mouse button and select copy
 
 .. figure:: img/setup_0008.jpg
-   :alt: Welcome Screen
+   :alt: Copy user api key
    :align: center
 
-   Welcome Screen
+   Copy user api key
+
+Step 9: Paste user api key
+------------------------------------
+ #. Put mouse on the Forensic API field
+ #. Press CTRL + V or paste it using the right mouse button and select paste
 
 .. figure:: img/setup_0009.jpg
-   :alt: Welcome Screen
+   :alt: Past user api key
    :align: center
 
-   Welcome Screen
+   Paste user api key
+
+
+Step 10: Fill and test Forensic VM Server configuration
+-------------------------------------------------------
+ #. Put mouse on the Forensic VM server address. Fill the information with your server address
+ #. Click the Test Server Connection to test if API and server address are correct
 
 .. figure:: img/setup_0010.jpg
-   :alt: Welcome Screen
+   :alt: Fill and test forensic VM
    :align: center
 
-   Welcome Screen
+   Fill and test forensic VM Server Configuration
+
+Step 11: Forensic VM Server configuration test success
+-------------------------------------------------------
+ #. If all informations is correct and if the server is online you should see a connected sucessufully dialog box.
+ #. If there are any problems, you should see an red error dialog. Please check and correct the field values.
 
 .. figure:: img/setup_0011.jpg
-   :alt: Welcome Screen
+   :alt: Forensic VM Server Connection test
    :align: center
 
-   Welcome Screen
+   Forensic VM server connection test
+
+Step 12: Configure Windows Share over Forensic SSH Server Redirection
+----------------------------------------------------------------------
+ The way that forensicVM Server access the forensic images is by making a reverse ssh connection to your computer and access a local share via internet. The reverse ssh connection is in need to make a safe windows share access. You should configure now the forensicVM server SSH address and port:
+ #. Please fill the SSH Server Address and port.
+ #. Press the button copy ssh key to server
 
 .. figure:: img/setup_0012.jpg
-   :alt: Welcome Screen
+   :alt: Configure and copy SSH key to server
    :align: center
 
-   Welcome Screen
+   Configure and copy ssh key to server
+
+Step 13: Windows Share over Forensic SSH copy ssh key status
+------------------------------------------------------------- 
+ #. If the configuration is correct you should see a dialog stating that a Public key added to authorized keys
+ #. If not, you should see a error dialog or a dialog stating that the ssh public key is already present on the remote server
 
 .. figure:: img/setup_0013.jpg
-   :alt: Welcome Screen
+   :alt: Copy ssh key status
    :align: center
 
-   Welcome Screen
+   Copy ssh key status
+
+
+Step 14: Testing Windows Share over Forensic SSH Server Redirection
+---------------------------------------------------------------------- 
+ #. Click the Test Ssh connection button
+ #. If the configuration is correct you should see a dialog stating that the connection was successfull
+ #. If not, you should see a error dialog
+
 
 .. figure:: img/setup_0014.jpg
-   :alt: Welcome Screen
+   :alt: Test windows share over ssh
    :align: center
 
-   Welcome Screen
+   Test windows share over ssh
+
+
 
 .. figure:: img/setup_0015.jpg
    :alt: Welcome Screen
