@@ -241,19 +241,29 @@ Step 14: Testing Windows Share over Forensic SSH Server Redirection
 
    Test windows share over ssh
 
-
+Step 15: Configure windows share over ssh
+---------------------------------------------------------------------- 
+ #. Press the Autofill info button to autofill the windows share information withe the Share login and local ou remote path to share. This info is extracted from the forensic image current path.
 
 .. figure:: img/setup_0015.jpg
-   :alt: Welcome Screen
+   :alt: Configure windows share over ssh
    :align: center
 
-   Welcome Screen
+   Configure windows share over ssh
+
+Step 16: Configure the share login and the share password
+---------------------------------------------------------------------- 
+ #. The share login and share password is a windows local user and is password. It does not need to be an Administrator accound. It can be a regular user. It also does not need to exist, since it is created if it does not exits when the user press the create share button.
 
 .. figure:: img/setup_0016.jpg
-   :alt: Welcome Screen
+   :alt: Configure the share login and the share password
    :align: center
 
-   Welcome Screen
+   Share login and the share password configuration
+
+Step 17: 
+---------------------------------------------------------------------- 
+ #. 
 
 .. figure:: img/setup_0017.jpg
    :alt: Welcome Screen
