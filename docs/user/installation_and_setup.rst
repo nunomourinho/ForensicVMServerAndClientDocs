@@ -77,7 +77,8 @@ Initial Setup
 -------------
 After successfully installing ForensicVM one needs to configure the AutopsyVM plugin. The initial configuration is composed of the following steps:
 
-#. Autopsy: Add a new datasource to Autopsy. This new datasource is the forensic image that we need to convert to a forensicVM
+Step 1: In Autopsy: Add a new datasource to Autopsy. This new datasource is the forensic image that we need to convert to a forensicVM
+----------------------------------------------------------------------------------------------------------------------------------------
  #. Add datasource
  #. Specify a new hostname
  #. Next
@@ -88,7 +89,8 @@ After successfully installing ForensicVM one needs to configure the AutopsyVM pl
 
     Add a new datasource to Autopsy
 
-#. Select your Disk Image
+Step 2: Select your Disk Image
+--------------------------------
  #. Select option disk image or VM FIle
  #. Next
 
@@ -98,7 +100,8 @@ After successfully installing ForensicVM one needs to configure the AutopsyVM pl
 
    Disk Image
 
-#. Select your forensic image
+Step 3: Select your forensic image
+------------------------------------
  #. Browse for you forensic image, select it
  #. Click Next
 
@@ -109,7 +112,8 @@ After successfully installing ForensicVM one needs to configure the AutopsyVM pl
 
    Forensic Image Selection
 
-#. Run the ForensicVM client plugin
+Step 4: Run the ForensicVM client plugin
+------------------------------------------
  #. Deselect all other plugins
  #. Select the forensicVM Client plugin
  #. Click next
@@ -120,16 +124,17 @@ After successfully installing ForensicVM one needs to configure the AutopsyVM pl
 
    Select Datasource
 
+Step 5: Open yout forensicVM Server web address in admin. Ex: https://<ip-or-web>:port/admin
+----------------------------------------------------------------------------------------------
+ #. Enter user and password
+ #. Click the login button
+
 .. figure:: img/setup_0005.jpg
    :alt: Configure inject
    :align: center
 
    Configure inject - Select ForensicVM Client plugin
 
-
-#. Open yout forensicVM Server web address in admin. Ex: https://<ip-or-web>:port/admin
- #. Enter user and password
- #. Click the login button
 
 .. figure:: img/setup_0006.jpg
    :alt: ForensicVM Server Login Screen
