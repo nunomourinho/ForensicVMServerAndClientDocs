@@ -77,21 +77,21 @@ Initial Setup
 -------------
 After successfully installing ForensicVM one needs to configure the AutopsyVM plugin. The initial configuration is composed of the following steps:
 
-Step 1: In Autopsy: Add a new datasource to Autopsy. This new datasource is the forensic image that we need to convert to a forensicVM
+Step 1: In Autopsy: Add a new data source to Autopsy. This new data source is the forensic image that we need to convert to a forensicVM
 ----------------------------------------------------------------------------------------------------------------------------------------
  #. Add datasource
  #. Specify a new hostname
  #. Next
 
  .. figure:: img/setup_0001.jpg
-    :alt: Add datasource
+    :alt: Add data source
     :align: center
 
-    Add a new datasource to Autopsy
+    Add a new data source to Autopsy
 
 Step 2: Select your Disk Image
 --------------------------------
- #. Select option disk image or VM FIle
+ #. Select the option disk image or VM FIle
  #. Next
 
 .. figure:: img/setup_0002.jpg
@@ -102,7 +102,7 @@ Step 2: Select your Disk Image
 
 Step 3: Select your forensic image
 ------------------------------------
- #. Browse for you forensic image, select it
+ #. Browse for your forensic image, select it
  #. Click Next
 
 
@@ -119,12 +119,12 @@ Step 4: Run the ForensicVM client plugin
  #. Click next
 
 .. figure:: img/setup_0004.jpg
-   :alt: Select datasource
+   :alt: Select data source
    :align: center
 
    Select Datasource
 
-Step 5: Open yout forensicVM Server web address in admin. Ex: https://<ip-or-web>:port/admin
+Step 5: Open your forensicVM Server web address in the admin. Ex: https://<ip-or-web>:port/admin
 ----------------------------------------------------------------------------------------------
  #. Enter user and password
  #. Click the login button
@@ -137,7 +137,7 @@ Step 5: Open yout forensicVM Server web address in admin. Ex: https://<ip-or-web
 
 Step 6: Add  a new user
 ------------------------
- #. Enter user, password and password confirmation dialogs
+ #. Enter user, password and password confirmation dialogues
  #. Click SAVE
 
 .. figure:: img/setup_0006.jpg
@@ -154,37 +154,37 @@ Step 7: Add  a new api key to the user
 
 
 .. figure:: img/setup_0007.jpg
-   :alt: Add api key to user
+   :alt: Add API key to user
    :align: center
 
-   Add api key to user
+   Add API key to user
 
-Step 8: Copy user api key
+Step 8: Copy the user API key
 ------------------------------------
- #. Select the newly created api key
+ #. Select the newly created API key
  #. Press CTRL + C or copy it using the right mouse button and select copy
 
 .. figure:: img/setup_0008.jpg
    :alt: Copy user api key
    :align: center
 
-   Copy user api key
+   Copy user API key
 
-Step 9: Paste user api key
+Step 9: Paste the user API key
 ------------------------------------
- #. Put mouse on the Forensic API field
+ #. Put the mouse on the Forensic API field
  #. Press CTRL + V or paste it using the right mouse button and select paste
 
 .. figure:: img/setup_0009.jpg
-   :alt: Past user api key
+   :alt: Past user API key
    :align: center
 
-   Paste user api key
+   Paste the user API key
 
 
-Step 10: Fill and test Forensic VM Server configuration
+Step 10: Fill and test the Forensic VM Server configuration
 -------------------------------------------------------
- #. Put mouse on the Forensic VM server address. Fill the information with your server address
+ #. Put the mouse on the Forensic VM server address. Fill in the information with your server address
  #. Click the Test Server Connection to test if API and server address are correct
 
 .. figure:: img/setup_0010.jpg
@@ -195,8 +195,8 @@ Step 10: Fill and test Forensic VM Server configuration
 
 Step 11: Forensic VM Server configuration test success
 -------------------------------------------------------
- #. If all informations is correct and if the server is online you should see a connected sucessufully dialog box.
- #. If there are any problems, you should see an red error dialog. Please check and correct the field values.
+ #. If all pieces of information are correct and if the server is online you should see a connected successfully dialog box.
+ #. If there are any problems, you should see a red error dialogue. Please check and correct the field values.
 
 .. figure:: img/setup_0011.jpg
    :alt: Forensic VM Server Connection test
@@ -206,20 +206,20 @@ Step 11: Forensic VM Server configuration test success
 
 Step 12: Configure Windows Share over Forensic SSH Server Redirection
 ----------------------------------------------------------------------
- The way that forensicVM Server access the forensic images is by making a reverse ssh connection to your computer and access a local share via internet. The reverse ssh connection is in need to make a safe windows share access. You should configure now the forensicVM server SSH address and port number:
- #. Please fill the SSH Server Address and port number.
- #. Press the button copy ssh key to server
+ The way that forensicVM Server access the forensic images is by making a reverse ssh connection to your computer and accessing a local share via the internet. The reverse ssh connection is in need to make a safe Windows share access. You should configure now the forensicVM server SSH address and port number:
+ #. Please fill in the SSH Server Address and port number.
+ #. Press the button to copy the ssh key to the server
 
 .. figure:: img/setup_0012.jpg
-   :alt: Configure and copy SSH key to server
+   :alt: Configure and copy SSH key to the server
    :align: center
 
-   Configure and copy ssh key to server
+   Configure and copy the ssh key to the server
 
 Step 13: Windows Share over Forensic SSH copy ssh key status
 ------------------------------------------------------------- 
  #. If the configuration is correct you should see a dialog stating that a Public key added to authorized keys
- #. If not, you should see a error dialog or a dialog stating that the ssh public key is already present on the remote server
+ #. If not, you should see an error dialogue or a dialogue stating that the ssh public key is already present on the remote server
 
 .. figure:: img/setup_0013.jpg
    :alt: Copy ssh key status
@@ -231,19 +231,19 @@ Step 13: Windows Share over Forensic SSH copy ssh key status
 Step 14: Testing Windows Share over Forensic SSH Server Redirection
 ---------------------------------------------------------------------- 
  #. Click the Test Ssh connection button
- #. If the configuration is correct you should see a dialog stating that the connection was successfull
- #. If not, you should see a error dialog
+ #. If the configuration is correct you should see a dialog stating that the connection was successful
+ #. If not, you should see an error dialogue
 
 
 .. figure:: img/setup_0014.jpg
-   :alt: Test windows share over ssh
+   :alt: Test Windows share over ssh
    :align: center
 
    Test windows share over ssh
 
 Step 15: Configure windows share over ssh
 ---------------------------------------------------------------------- 
- #. Press the Autofill info button to autofill the windows share information withe the Share login and local ou remote path to share. This info is extracted from the forensic image current path.
+ #. Press the Autofill info button to autofill the Windows share information with the Share login and local and the remote path to share. This info is extracted from the forensic image's current path.
 
 .. figure:: img/setup_0015.jpg
    :alt: Configure windows share over ssh
@@ -253,26 +253,26 @@ Step 15: Configure windows share over ssh
 
 Step 16: Configure the share login and the share password
 ---------------------------------------------------------------------- 
- #. The share login and share password is a windows local user and is password. It does not need to be an Administrator accound. It can be a regular user. It also does not need to exist, since it is created if it does not exits when the user press the create share button.
+ #. The share login and share password is a Windows local user and is password. It does not need to be an Administrator account. It can be a regular user. It also does not need to exist, since it is created if it does not exist when the user presses the create share button.
 
 .. figure:: img/setup_0016.jpg
-   :alt: Configure the share login and the share password
+   :alt: Configure the share login and the Share password
    :align: center
 
    Share login and the share password configuration
 
-Step 17: Create share Button
+Step 17: Create Share Button
 ---------------------------------------------------------------------- 
- #. After filling the share login and password please press the create share button.
+ #. After filling in the share login and password please press the create share button.
 
 .. figure:: img/setup_0017.jpg
-   :alt: Create share button
+   :alt: Create a share button
    :align: center
 
    Create share button
 
 
-Step 18: Create share Dialog
+Step 18: Create a share Dialog
 ---------------------------------------------------------------------- 
  #. After pressing the create share button a command window will open. This will try to create the local user with the defined password. 
 
@@ -280,10 +280,21 @@ Step 18: Create share Dialog
    :alt: Create share command window
    :align: center
 
-   Create share command window
+   Create a share command window
+
+Step 19: Testing the forensicVM image Windows share over ssh
+---------------------------------------------------------------------- 
+ #. Press Test Windows share button to test if it is possible to connect to the Windows share from the server using a reverse ssh connection. If all is ok you will be presented with a Windows alert stating that the connection was successful
 
 .. figure:: img/setup_0019.jpg
-   :alt: Welcome Screen
+   :alt: Testing the forensicVM image Windows share over ssh
    :align: center
 
-   Welcome Screen
+   Testing the forensicVM image Windows share over ssh
+
+.. CAUTION::
+   Please use a safe Windows username and password for your share. This share is protected over the internet by your ssh private key. But on the Windows network, your username and password are the weakest link. It is advised to use a dedicated strong username and password for your share. You can reuse the same name and password for multiple forensic image shares if necessary.
+
+.. NOTE::
+   Please configure your firewall to allow local access to your Windows shares. Since only local pc access is needed you can restrict the Windows share to be only accessible by your own computer. If necessary please contact your system administrator to perform this task.
+   
