@@ -206,8 +206,8 @@ Step 11: Forensic VM Server configuration test success
 
 Step 12: Configure Windows Share over Forensic SSH Server Redirection
 ----------------------------------------------------------------------
- The way that forensicVM Server access the forensic images is by making a reverse ssh connection to your computer and access a local share via internet. The reverse ssh connection is in need to make a safe windows share access. You should configure now the forensicVM server SSH address and port:
- #. Please fill the SSH Server Address and port.
+ The way that forensicVM Server access the forensic images is by making a reverse ssh connection to your computer and access a local share via internet. The reverse ssh connection is in need to make a safe windows share access. You should configure now the forensicVM server SSH address and port number:
+ #. Please fill the SSH Server Address and port number.
  #. Press the button copy ssh key to server
 
 .. figure:: img/setup_0012.jpg
