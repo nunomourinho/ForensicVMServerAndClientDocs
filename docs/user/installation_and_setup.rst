@@ -261,21 +261,26 @@ Step 16: Configure the share login and the share password
 
    Share login and the share password configuration
 
-Step 17: 
+Step 17: Create share Button
 ---------------------------------------------------------------------- 
- #. 
+ #. After filling the share login and password please press the create share button.
 
 .. figure:: img/setup_0017.jpg
-   :alt: Welcome Screen
+   :alt: Create share button
    :align: center
 
-   Welcome Screen
+   Create share button
+
+
+Step 18: Create share Dialog
+---------------------------------------------------------------------- 
+ #. After pressing the create share button a command window will open. This will try to create the local user with the defined password. 
 
 .. figure:: img/setup_0018.jpg
-   :alt: Welcome Screen
+   :alt: Create share command window
    :align: center
 
-   Welcome Screen
+   Create share command window
 
 .. figure:: img/setup_0019.jpg
    :alt: Welcome Screen
