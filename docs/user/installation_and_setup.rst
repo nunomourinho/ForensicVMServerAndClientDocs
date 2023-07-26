@@ -87,10 +87,10 @@ After successfully installing ForensicVM one needs to configure the AutopsyVM pl
     :align: center
 
     Add a new datasource to Autopsy
- 
-#. Disk Image or VM File
 
-
+#. Select your Disk Image
+ #. Select option disk image or VM FIle
+ #. Next
 
 .. figure:: img/setup_0002.jpg
    :alt: Disk Image
@@ -98,29 +98,44 @@ After successfully installing ForensicVM one needs to configure the AutopsyVM pl
 
    Disk Image
 
+#. Select your forensic image
+ #. Browse for you forensic image, select it
+ #. Click Next
+
+
 .. figure:: img/setup_0003.jpg
-   :alt: Welcome Screen
+   :alt: Forensic Image Selection
    :align: center
 
-   Welcome Screen
+   Forensic Image Selection
+
+#. Run the ForensicVM client plugin
+ #. Deselect all other plugins
+ #. Select the forensicVM Client plugin
+ #. Click next
 
 .. figure:: img/setup_0004.jpg
-   :alt: Welcome Screen
+   :alt: Select datasource
    :align: center
 
-   Welcome Screen
+   Select Datasource
 
 .. figure:: img/setup_0005.jpg
-   :alt: Welcome Screen
+   :alt: Configure inject
    :align: center
 
-   Welcome Screen
+   Configure inject - Select ForensicVM Client plugin
+
+
+#. Open yout forensicVM Server web address in admin. Ex: https://<ip-or-web>:port/admin
+ #. Enter user and password
+ #. Click the login button
 
 .. figure:: img/setup_0006.jpg
-   :alt: Welcome Screen
+   :alt: ForensicVM Server Login Screen
    :align: center
 
-   Welcome Screen
+   Login screen
 
 .. figure:: img/setup_0007.jpg
    :alt: Welcome Screen
