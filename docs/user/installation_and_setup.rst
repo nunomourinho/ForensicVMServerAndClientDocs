@@ -1,50 +1,51 @@
-=====================
-Installation and Setup
-=====================
-This section will guide you through the steps necessary to install and set up ForensicVM on your system.
+======================
+ForensicVM: Installation and Setup Guide
+======================
 
-Installation Steps
-------------------
+This comprehensive guide will walk you through the entire process of installing and setting up ForensicVM on your system. ForensicVM is a tool designed to assist in digital forensic investigations by providing a dedicated forensic hypervisor server equipped with the necessary tools and resources.
+
 .. _installation:
 
+=============================
+ForensicVM Client Plugin Installation
+=============================
 
-AutopsyVM Client Plugin Installation
-===================================
+The AutopsyVM client plugin is a beneficial enhancement to Autopsy's functionality in the field of digital forensics. This section presents a step-by-step guide on installing the plugin, verifying its installation, and showcasing the process using screenshots.
 
-Introduction
-------------
-
-The AutopsyVM client plugin is a valuable addition to Autopsy, enhancing its functionality for digital forensics. Follow the steps below to install the plugin.
-
+----------------------
 Step 1: Download ForensicVM.exe Setup File
-------------------------------------------
+----------------------
 
-Download the latest version of the ForensicVM.exe setup file from the [AutopsyForensicVM GitHub Releases](https://github.com/nunomourinho/AutopsyForensicVM/releases) page. Navigate to the "Assets" section and download the setup file.
+Start the installation process by downloading the latest version of the ForensicVM.exe setup file from the [AutopsyForensicVM GitHub Releases](https://github.com/nunomourinho/AutopsyForensicVM/releases) page. The setup file is located under the "Assets" section.
 
+----------------------
 Step 2: Run the ForensicVM.exe Setup
------------------------------------
+----------------------
 
-Run the ForensicVM.exe setup file to begin the installation process. The setup consists of four steps:
+Launch the ForensicVM.exe setup file to begin the installation. This part of the process consists of four steps:
 
-1. Welcome Screen: Displays an introduction to the installation process.
-2. Component Installation: Proceed with the default settings. Do not make any changes.
-3. Plugin Location: Specify the location where the AutopsyVM client plugin will be installed. Typically, this does not require any changes.
-4. Install: Click the "Install" button to start the installation process.
+1. Welcome Screen: A brief introduction to the installation process is displayed.
+2. Component Installation: Proceed with the default settings and avoid making any changes.
+3. Plugin Location: Specify the directory where the AutopsyVM client plugin will be installed. Typically, the default location does not require any changes.
+4. Install: Click the "Install" button to initiate the installation process.
 
+----------------------
 Step 3: Complete the Installation
--------------------------------
+----------------------
 
-Follow the on-screen instructions to complete the installation. Once the installation is finished, you can proceed with using the AutopsyVM client plugin in Autopsy.
+Follow the prompts provided to complete the installation. After the process is finalized, you can proceed to use the AutopsyVM client plugin with Autopsy.
 
+----------------------
 Step 4: Verify the Installation
-------------------------------
+----------------------
 
-To verify the successful installation of the AutopsyVM client plugin, open Autopsy and check if the plugin is available and functional.
+To ensure the AutopsyVM client plugin has been successfully installed, open Autopsy and check if the plugin is available and operational.
 
+----------------------
 Screenshots
------------
+----------------------
 
-Here are the screenshots that illustrate the installation process:
+Below are screenshots that provide a visual guide for the installation process:
 
 .. figure:: img/0001.JPG
    :alt: Welcome Screen
@@ -70,41 +71,45 @@ Here are the screenshots that illustrate the installation process:
 
    Finish Screen
 
+==========================
+Initial Setup of AutopsyVM Plugin
+==========================
 
+After successfully installing ForensicVM, it's crucial to configure the AutopsyVM plugin. The initial configuration process consists of several steps, ranging from adding a new data source to testing the server connection and setting up the Windows share over Forensic SSH Server Redirection. Each step is detailed below with corresponding screenshots for better understanding:
 
+----------------------
+Step 1: Add a New Data Source in Autopsy
+----------------------
 
-Initial Setup
--------------
-After successfully installing ForensicVM one needs to configure the AutopsyVM plugin. The initial configuration is composed of the following steps:
+1. Navigate to "Add data source".
+2. Specify a new hostname.
+3. Click "Next".
 
-Step 1: In Autopsy: Add a new data source to Autopsy. This new data source is the forensic image that we need to convert to a forensicVM
-----------------------------------------------------------------------------------------------------------------------------------------
- #. Add datasource
- #. Specify a new hostname
- #. Next
-
- .. figure:: img/setup_0001.jpg
-    :alt: Add data source
-    :align: center
-
-    Add a new data source to Autopsy
-
-Step 2: Select your Disk Image
---------------------------------
- #. Select the option disk image or VM FIle
- #. Next
-
-.. figure:: img/setup_0002.jpg
-   :alt: Disk Image
+.. figure:: img/setup_0001.jpg
+   :alt: Add data source
    :align: center
 
-   Disk Image
+   Adding a new data source in Autopsy
 
-Step 3: Select your forensic image
-------------------------------------
- #. Browse for your forensic image, select it
- #. Click Next
+----------------------
+Step 2: Select Your Disk Image
+----------------------
 
+1. Choose the option "Disk image or VM file".
+2. Click "Next".
+
+.. figure:: img/setup_0002.jpg
+   :alt: Disk Image Selection
+   :align: center
+
+   Disk Image Selection
+
+----------------------
+Step 3: Choose Your Forensic Image
+----------------------
+
+1. Browse your files and select your forensic image.
+2. Click "Next".
 
 .. figure:: img/setup_0003.jpg
    :alt: Forensic Image Selection
@@ -112,189 +117,181 @@ Step 3: Select your forensic image
 
    Forensic Image Selection
 
-Step 4: Run the ForensicVM client plugin
-------------------------------------------
- #. Deselect all other plugins
- #. Select the forensicVM Client plugin
- #. Click next
+----------------------
+Step 4: Run the ForensicVM Client Plugin
+----------------------
+
+1. Deselect all other plugins.
+2. Select the "ForensicVM Client" plugin.
+3. Click "Next".
 
 .. figure:: img/setup_0004.jpg
-   :alt: Select data source
+   :alt: Select ForensicVM Client Plugin
    :align: center
 
-   Select Datasource
+   Selecting ForensicVM Client Plugin
 
-Step 5: Open your forensicVM Server web address in the admin. Ex: https://<ip-or-web>:port/admin
-----------------------------------------------------------------------------------------------
- #. Enter user and password
- #. Click the login button
+----------------------
+Step 5: Open Your ForensicVM Server Web Address in the Admin
+----------------------
+
+1. Enter your username and password.
+2. Click the "Login" button.
 
 .. figure:: img/setup_0005.jpg
-   :alt: Configure inject
+   :alt: Login to ForensicVM Server Admin
    :align: center
 
-   Configure inject - Select ForensicVM Client plugin
+   Logging in to ForensicVM Server Admin
 
-Step 6: Add  a new user
-------------------------
- #. Enter user, password and password confirmation dialogues
- #. Click SAVE
+----------------------
+Step 6: Add a New User
+----------------------
+
+1. Fill in the username, password, and password confirmation dialogues.
+2. Click "SAVE".
 
 .. figure:: img/setup_0006.jpg
-   :alt: Add user
+   :alt: Add New User
    :align: center
 
-   Add user
+   Adding a New User
 
-Step 7: Add  a new api key to the user
----------------------------------------
- #. Click the add button on the api keys
- #. Select the user
- #. Click the plus sign
+----------------------
+Step 7: Add a New API Key to the User
+----------------------
 
+1. Click the "Add" button under the API keys section.
+2. Select the user.
+3. Click the plus sign.
 
 .. figure:: img/setup_0007.jpg
-   :alt: Add API key to user
+   :alt: Add API Key to User
    :align: center
 
-   Add API key to user
+   Adding API Key to User
 
-Step 8: Copy the user API key
-------------------------------------
- #. Select the newly created API key
- #. Press CTRL + C or copy it using the right mouse button and select copy
+----------------------
+Step 8: Copy the User API Key
+----------------------
+
+1. Select the newly created API key.
+2. Press CTRL + C or copy it using the right mouse button and select "Copy".
 
 .. figure:: img/setup_0008.jpg
-   :alt: Copy user api key
+   :alt: Copy User API Key
    :align: center
 
-   Copy user API key
+   Copying User API Key
 
-Step 9: Paste the user API key
-------------------------------------
- #. Put the mouse on the Forensic API field
- #. Press CTRL + V or paste it using the right mouse button and select paste
+----------------------
+Step 9: Paste the User API Key
+----------------------
+
+1. Place the cursor on the "Forensic API" field.
+2. Press CTRL + V or paste it using the right mouse button and select "Paste".
 
 .. figure:: img/setup_0009.jpg
-   :alt: Past user API key
+   :alt: Paste User API Key
    :align: center
 
-   Paste the user API key
+   Pasting User API Key
 
+----------------------
+Step 10: Fill and Test the Forensic VM Server Configuration
+----------------------
 
-Step 10: Fill and test the Forensic VM Server configuration
--------------------------------------------------------
- #. Put the mouse on the Forensic VM server address. Fill in the information with your server address
- #. Click the Test Server Connection to test if API and server address are correct
+1. Fill in the "Forensic VM Server Address" with your server address.
+2. Click the "Test Server Connection" to check if the API and server address are correctly entered.
 
 .. figure:: img/setup_0010.jpg
-   :alt: Fill and test forensic VM
+   :alt: Fill and Test Forensic VM Server Configuration
    :align: center
 
-   Fill and test forensic VM Server Configuration
+   Filling and Testing Forensic VM Server Configuration
 
-Step 11: Forensic VM Server configuration test success
--------------------------------------------------------
- #. If all pieces of information are correct and if the server is online you should see a connected successfully dialog box.
- #. If there are any problems, you should see a red error dialogue. Please check and correct the field values.
+----------------------
+Step 11: Confirm Forensic VM Server Configuration Test Success
+----------------------
+
+If all the information entered is correct and the server is online, a "Connected Successfully" dialog box will appear. In case of any issues, a red error dialogue will appear, prompting you to check and correct the field values.
 
 .. figure:: img/setup_0011.jpg
-   :alt: Forensic VM Server Connection test
+   :alt: Forensic VM Server Connection Test Success
    :align: center
 
-   Forensic VM server connection test
+   Forensic VM Server Connection Test Success
 
+----------------------
 Step 12: Configure Windows Share over Forensic SSH Server Redirection
-----------------------------------------------------------------------
- The way that forensicVM Server access the forensic images is by making a reverse ssh connection to your computer and accessing a local share via the internet. The reverse ssh connection is in need to make a safe Windows share access. You should configure now the forensicVM server SSH address and port number:
- #. Please fill in the SSH Server Address and port number.
- #. Press the button to copy the ssh key to the server
+----------------------
+
+ForensicVM Server accesses forensic images via a reverse SSH connection to your computer, allowing local share access over the internet. At this step, you should configure the ForensicVM server SSH address and port number:
+
+1. Fill in the SSH Server Address and port number.
+2. Press the button to copy the SSH key to the server.
 
 .. figure:: img/setup_0012.jpg
-   :alt: Configure and copy SSH key to the server
+   :alt: Configure Windows Share over Forensic SSH Server Redirection
    :align: center
 
-   Configure and copy the ssh key to the server
-
-Step 13: Windows Share over Forensic SSH copy ssh key status
-------------------------------------------------------------- 
- #. If the configuration is correct you should see a dialog stating that a Public key added to authorized keys
- #. If not, you should see an error dialogue or a dialogue stating that the ssh public key is already present on the remote server
-
-.. figure:: img/setup_0013.jpg
-   :alt: Copy ssh key status
-   :align: center
-
-   Copy ssh key status
-
-
-Step 14: Testing Windows Share over Forensic SSH Server Redirection
----------------------------------------------------------------------- 
- #. Click the Test Ssh connection button
- #. If the configuration is correct you should see a dialog stating that the connection was successful
- #. If not, you should see an error dialogue
-
-
-.. figure:: img/setup_0014.jpg
-   :alt: Test Windows share over ssh
-   :align: center
-
-   Test windows share over ssh
-
-Step 15: Configure windows share over ssh
----------------------------------------------------------------------- 
- #. Press the Autofill info button to autofill the Windows share information with the Share login and local and the remote path to share. This info is extracted from the forensic image's current path.
-
-.. figure:: img/setup_0015.jpg
-   :alt: Configure windows share over ssh
-   :align: center
-
-   Configure windows share over ssh
-
-Step 16: Configure the share login and the share password
----------------------------------------------------------------------- 
- #. The share login and share password is a Windows local user and is password. It does not need to be an Administrator account. It can be a regular user. It also does not need to exist, since it is created if it does not exist when the user presses the create share button.
-
-.. figure:: img/setup_0016.jpg
-   :alt: Configure the share login and the Share password
-   :align: center
-
-   Share login and the share password configuration
-
-Step 17: Create Share Button
----------------------------------------------------------------------- 
- #. After filling in the share login and password please press the create share button.
-
-.. figure:: img/setup_0017.jpg
-   :alt: Create a share button
-   :align: center
-
-   Create share button
-
-
-Step 18: Create a share Dialog
----------------------------------------------------------------------- 
- #. After pressing the create share button a command window will open. This will try to create the local user with the defined password. 
-
-.. figure:: img/setup_0018.jpg
-   :alt: Create share command window
-   :align: center
-
-   Create a share command window
-
-Step 19: Testing the forensicVM image Windows share over ssh
----------------------------------------------------------------------- 
- #. Press Test Windows share button to test if it is possible to connect to the Windows share from the server using a reverse ssh connection. If all is ok you will be presented with a Windows alert stating that the connection was successful
-
-.. figure:: img/setup_0019.jpg
-   :alt: Testing the forensicVM image Windows share over ssh
-   :align: center
-
-   Testing the forensicVM image Windows share over ssh
-
-.. CAUTION::
-   Ensure to use a secure Windows username and password for your share. Although this share is protected over the internet by your SSH private key, on the Windows network, your username and password could be a potential vulnerability. We recommend a dedicated, strong username and password for your share, which can be reused for multiple forensic image shares if necessary.
+   Configuring Windows Share over Forensic SSH Server Redirection
 
 .. NOTE::
-   Please configure your firewall to allow local access to your Windows shares. You can restrict the Windows share to be accessible only by your own computer. If needed, please seek assistance from your system administrator to perform this task.
-   
+   The following steps outline the process for creating a Windows share over SSH.
+
+----------------------
+Step 13: Configure the Share Login and the Share Password
+----------------------
+
+Ensure to use a secure Windows username and password for your share. Even though the share is protected over the internet by your SSH private key, on the Windows network, your username and password could be a potential vulnerability. We recommend a dedicated, strong username and password for your share.
+
+.. figure:: img/setup_0013.jpg
+   :alt: Configure the Share Login and Share Password
+   :align: center
+
+   Configuring the Share Login and Share Password
+
+.. CAUTION::
+   Configure your firewall to allow local access to your Windows shares. You can restrict the Windows share to be accessible only by your own computer. If needed, consult your system administrator to perform this task.
+
+----------------------
+Step 14: Press 'Create Share' Button
+----------------------
+
+After confirming the share login and password, press the "Create Share" button to proceed.
+
+.. figure:: img/setup_0014.jpg
+   :alt: Create Share
+   :align: center
+
+   Creating Share
+
+----------------------
+Step 15: Confirm 'Create Share' Dialogue
+----------------------
+
+A dialogue box will confirm the successful creation of the share. Press "OK" to proceed.
+
+.. figure:: img/setup_0015.jpg
+   :alt: Confirm Create Share
+   :align: center
+
+   Confirming Create Share
+
+----------------------
+Step 16: Test the ForensicVM Image Windows Share over SSH
+----------------------
+
+At this step, you should confirm that the Windows Share over SSH is working correctly:
+
+1. Press the "Test Share" button.
+2. A green checkmark will appear next to the "Test Share" button if the test is successful.
+
+.. figure:: img/setup_0016.jpg
+   :alt: Test the ForensicVM Image Windows Share over SSH
+   :align: center
+
+   Testing the ForensicVM Image Windows Share over SSH
+
+With this, you have successfully completed the installation and initial setup of ForensicVM. Happy investigating!
