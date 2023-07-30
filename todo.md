@@ -72,4 +72,24 @@
 - [ ] Compile and join api documentation from forensicVM client in the developer section
 
 
+- [ ] Make metrics:
+   - [ ] Run the image conversion
+      - [ ] Get client Info
+         - [ ] Processor and number or cores
+         - [ ] Speed
+         - [ ] Disk type and size
+      - [ ] Server info
+         - [ ] Processor and number of cores
+         - [ ] Speed
+         - [ ] Disk type and size
+      - [ ] Forensic Image info (from server)
+         - [ ] Type format
+         - [ ] Size
+      - [ ] Network
+         - [ ] Local network speed
+         - [ ] Internet connection speed
+         - [ ] Server internet connection speed
+         - [ ] Server transfer speed
+
+
    
