@@ -2,7 +2,7 @@
 ForensicVM Server Requirements
 ==============================
 
-To ensure that ForensicVM operates efficiently on your system, both your computer and server must meet or exceed the following requirements:
+To ensure that ForensicVM operates efficiently on your system, our server must meet or exceed the following requirements:
 
 Server Requirements
 ###################
