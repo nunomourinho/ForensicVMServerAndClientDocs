@@ -53,6 +53,6 @@ Additional Notes
 ********************
 
 .. IMPORTANT::
-   ForensicVM requires administrator or root privileges for installation and to execute certain high-privilege operations, such as creating read-only Windows shares. This ensures that the software has the necessary permissions to perform critical functions securely.
+   ForensicVM requires root privileges for installation and to execute specific high-privilege operations, such as converting forensic images to virtual machines, managing the ForensicVM lifecycle, and controlling various security and administrative functions within the system. These elevated permissions are essential in allowing the software to interact with core system components, manipulate disk images securely, and handle complex virtualization tasks. 
 
 
