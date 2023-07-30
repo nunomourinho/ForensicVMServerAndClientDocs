@@ -32,7 +32,7 @@ ForensicVM has been tested and supports the following operating systems:
 - The use of NVMe or SSD is not strictly necessary but is recommended, as it can significantly speed up the virtualization process.
 
 .. IMPORTANT::
-   Remember to account for the extra space needed for virtual ISO CD-ROM or DVD with your own tools. These might require additional storage depending on your specific requirements.
+   Remember to account for the extra space needed for virtual :term:`ISO` CD-ROM or DVD with your own tools. These might require additional storage depending on your specific requirements.
 
 **Networking**
 ********************
