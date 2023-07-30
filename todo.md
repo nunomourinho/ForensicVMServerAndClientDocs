@@ -1,6 +1,53 @@
-- [ ] Edit first pages
-- [ ] Enumerate Autopsy forensicVM actions
+- [x] Edit first pages
+- [x] Enumerate Autopsy forensicVM actions
    - [ ] Create a new page per action in usage
+      - [ ] Virtualize - Convert to VM
+      - [ ] Virtualize - Link to VM
+      - [ ] Start VM
+      - [ ] Open ForensicVM
+      - [ ] Shutdown VM
+      - [ ] Rest VM
+      - [ ] Stop VM
+      - [ ] Delete VM
+      - [ ] Screenshot
+      - [ ] Save Screenshots
+      - [ ] Make and Download Memmory Dump
+      - [ ] Evidence Disk
+         - [ ] Creation
+         - [ ] Recolect evidence
+         - [ ] Recreate evidence disck
+         - [ ] Import evidence disk to autopsy
+      - [ ] Network card
+         - [ ] Enable network card
+         - [ ] Disable network card
+         - [ ] Download Wireshark pcap files
+      - [ ] Analyse Forensic VM Performance
+      - [ ] Open forensicVM webshell
+      - [ ] DEBUG: remote ssh to folder
+      - [ ] Media
+         - [ ] Select ISO
+         - [ ] List Remote ISO files
+         - [ ] Insert ISO
+         - [ ] Eject ISO
+         - [ ] Browse and upload ISO
+         - [ ] Delete ISO
+      - [ ] Plugins
+        - [ ] Add forensic admin
+        - [ ] Reset Windows XP or Windows 2003 Activation
+        - [ ] Patch accessibility
+        - [ ] Remove hibernation file
+        - [ ] List remote Plugins
+        - [ ] Run Selected plugin
+      - [ ] Snapshots
+         - [ ] List remote snapshots
+         - [ ] Create new
+         - [ ] Rollback
+         - [ ] Delete
+         - [ ] Select snapshot
+      - [ ] Finetunning
+         - [ ] Change VM memory size
+         - [ ] Set datetime
+      - [ ] Output console
 - [ ] Create a figure index
 - [ ] Create a table index
 - [ ] Create a glossary (https://sublime-and-sphinx-guide.readthedocs.io/en/latest/glossary.html)
