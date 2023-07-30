@@ -9,11 +9,6 @@ Installing ForensicVM
 
 Before you can use ForensicVM, you must first install the software on your system. To do this, follow the steps outlined in the :ref:`installation-guide`.
 
-Logging In
-=============
-
-After installing ForensicVM, you can access its interface by logging in. Use the credentials that you set during the installation process.
-
 Navigating the Interface
 ============================
 
@@ -33,5 +28,3 @@ Next Steps
 ============
 
 After familiarizing yourself with ForensicVM, you may want to explore more advanced topics such as managing and developing plugins, advanced analysis techniques, or optimizing your ForensicVM setup. Refer to the respective sections in this documentation for more information.
-
-.. _installation-guide:
