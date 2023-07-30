@@ -30,7 +30,7 @@ Memory
 Storage
 --------------------
 
-- A minimum of 1 GB of free disk space is needed for the ForensicVM installation.
+- A minimum of 300 mb of free disk space is needed for the ForensicVM plugin installation.
 - Additional storage will be required for forensic images. The amount will depend on the size of the images you will be working with.
 - The use of Nvme or SSD is not strictly necessary but recommend as it speeds up the aquisition processes.
 
@@ -54,6 +54,6 @@ Additional Notes
 --------------------
 
 .. IMPORTANT::
-   ForensicVM requires administrator or root privileges for installation and running certain high-privilege operations like creating readonly windows shares!
+   ForensicVM plugin requires administrator or root privileges for installation and running certain high-privilege operations like creating readonly windows shares!
 
 
