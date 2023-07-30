@@ -59,4 +59,11 @@ Check out the :doc:`usage` section for further information, including how to :re
    Glossary <admin/glossary>
    Index <admin/index>
    Appendix <admin/appendix>
+   
+
+.. toctree::
+   :maxdepth: 3
+   :caption: Reference
+   Glossary <glossary>
    Typeset <admin/typset>
+   
