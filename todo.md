@@ -3,13 +3,13 @@
    - [ ] Create a new page per action in usage
       - [ ] Virtualize - Convert to VM
       - [ ] Virtualize - Link to VM
-      - [ ] Start VM
+      - [ ] Start VM / web start
       - [ ] Open ForensicVM
-      - [ ] Shutdown VM
-      - [ ] Rest VM
+      - [ ] Shutdown VM /web shutdown
+      - [ ] Reset VM / web reset
       - [ ] Stop VM
       - [ ] Delete VM
-      - [ ] Screenshot
+      - [ ] Screenshot / Web screenshot
       - [ ] Save Screenshots
       - [ ] Make and Download Memmory Dump
       - [ ] Evidence Disk
@@ -18,19 +18,25 @@
          - [ ] Recreate evidence disck
          - [ ] Import evidence disk to autopsy
       - [ ] Network card
-         - [ ] Enable network card
-         - [ ] Disable network card
+         - [ ] Enable network card /Web enable network
+         - [ ] Disable network card /web disable network
          - [ ] Download Wireshark pcap files
       - [ ] Analyse Forensic VM Performance
       - [ ] Open forensicVM webshell
       - [ ] DEBUG: remote ssh to folder
+      - [ ] Settings scaling - Local scaling
       - [ ] Media
-         - [ ] Select ISO
+         - [ ] Select ISO /web select cdrom
          - [ ] List Remote ISO files
-         - [ ] Insert ISO
-         - [ ] Eject ISO
+         - [ ] Insert ISO / web insert cdrom
+         - [ ] Eject ISO /web enject cdrom
          - [ ] Browse and upload ISO
          - [ ] Delete ISO
+      - [ ] Web Record video
+         - [ ] Start recording
+         - [ ] Recording progress
+         - [ ] Stop recording
+         - [ ] Video download
       - [ ] Plugins
         - [ ] Add forensic admin
         - [ ] Reset Windows XP or Windows 2003 Activation
@@ -48,6 +54,17 @@
          - [ ] Change VM memory size
          - [ ] Set datetime
       - [ ] Output console
+      - [ ] Colaboration framework - web interface
+         - [ ] Start
+         - [ ] Stop
+         - [ ] Shutdown
+         - [ ] Reset
+         - [ ] Browse
+         - [ ] List VM
+         - [ ] Server Status
+         - [ ] Shell
+         - [ ] Logout
+         - [ ] Login
 - [ ] Create a figure index
 - [ ] Create a table index
 - [ ] Create a glossary (https://sublime-and-sphinx-guide.readthedocs.io/en/latest/glossary.html)
