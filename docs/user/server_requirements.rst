@@ -45,7 +45,7 @@ ForensicVM has been tested and supports the following operating systems:
 - No specific display requirements exist for the server. You only need SSH access or HP ILO or similar for server administration.
 
 **Software Dependencies**
---------------------
+**************************
 
 - The installation will handle dependencies automatically. A dedicated server with Debian Bullseye as bare metal is necessary. Dedicated hardware with virtualization support is essential. The installation will create a new forensic hypervisor server based on QEMU.
 
