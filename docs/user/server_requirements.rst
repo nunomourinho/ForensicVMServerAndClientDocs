@@ -1,12 +1,10 @@
-Certainly! I've corrected some grammatical errors, reworded sentences for clarity, and expanded some sections to provide a more complete understanding of the requirements.
-
 =============================
 ForensicVM Server Requirements
 ==============================
 
 To ensure that ForensicVM operates efficiently on your system, both your computer and server must meet or exceed the following requirements:
 
-Computer Requirements
+Server Requirements
 ----------------------
 
 **Operating System**
