@@ -56,13 +56,13 @@ Check out the :doc:`usage` section for further information, including how to :re
    System Updates and Maintenance <admin/system_updates_and_maintenance>
    Security and Compliance <admin/security_and_compliance>
    Troubleshooting <admin/troubleshooting>
+   Index <admin/index>
+   Appendix <admin/appendix>
   
-
 .. toctree::
    :maxdepth: 3
    :caption: Reference
+   
+   Typeset <admin/typset>      
    Glossary <glossary>
-   Typeset <admin/typset>
-   Index <admin/index>
-   Appendix <admin/appendix>
    
