@@ -1,59 +1,60 @@
-==============================
-ForensicVM server requirements
+Certainly! I've corrected some grammatical errors, reworded sentences for clarity, and expanded some sections to provide a more complete understanding of the requirements.
+
+=============================
+ForensicVM Server Requirements
 ==============================
 
-To ensure that ForensicVM runs smoothly on your system, your computer and your server should meet or exceed the following requirements.
-
+To ensure that ForensicVM operates efficiently on your system, both your computer and server must meet or exceed the following requirements:
 
 Computer Requirements
 ----------------------
 
-Operating System
+**Operating System**
 --------------------
 
-ForensicVM was tested and supports the following operating systems:
+ForensicVM has been tested and supports the following operating systems:
 
-- Windows 10 or later
-- Autopsy 4.20 or later
+- Debian 11 (Bullseye)
 
-
-Processor
+**Processor**
 --------------------
 
-- A 64-bit multi-core processor is recommended for optimal performance.
+- A 64-bit multi-core processor is recommended for optimal performance. This will facilitate smoother operation, particularly when managing complex tasks.
 
-Memory
+**Memory**
 --------------------
 
-- A minimum of 8 GB RAM is required, but 16 GB or more is recommended for handling larger forensic images.
+- A minimum of 16 GB RAM is required. However, 16 GB or more is recommended to handle the simultaneous virtualization of forensic images. This ensures that multiple tasks can be performed concurrently without a loss in performance.
 
-Storage
+**Storage**
 --------------------
 
-- A minimum of 1 GB of free disk space is needed for the ForensicVM installation.
-- Additional storage will be required for forensic images. The amount will depend on the size of the images you will be working with.
-- The use of Nvme or SSD is not strictly necessary but recommend as it speeds up the aquisition processes.
+- A minimum of 2 GB of free disk space is needed for the ForensicVM installation itself.
+- Additional storage will be required for forensic images. The amount will depend on the size of the images you will be working with. At least 1 TB of disk space, configured in RAID 10, is recommended.
+- The use of NVMe or SSD is not strictly necessary but is recommended, as it can significantly speed up the virtualization process.
 
-Networking
+.. IMPORTANT::
+   Remember to account for the extra space needed for virtual ISO CD-ROM or DVD with your own tools. These might require additional storage depending on your specific requirements.
+
+**Networking**
 --------------------
 
-- A network connection is needed for software updates and for accessing cloud-stored forensic images.
+- A network connection is necessary, with at least a gigabit connection recommended. The conversion of forensic images to a virtual machine, the downloading of Wireshark files, videos, or evidence disks all exert significant pressure on the network. Therefore, utilizing a reliable internet service hosting with robust upload and download rates is crucial.
 
-Display
+**Display**
 --------------------
 
-- A display with a resolution of 1980x1080 or higher is recommended for the best experience. If possible use a two monitor setup; one for the Autopsy plugin, and the other for forensicVM server control.
+- No specific display requirements exist for the server. You only need SSH access or HP ILO or similar for server administration.
 
-
-Software Dependencies
+**Software Dependencies**
 --------------------
 
-- Install Autopsy 4.20 or higher
+- The installation will handle dependencies automatically. A dedicated server with Debian Bullseye as bare metal is necessary. Dedicated hardware with virtualization support is essential. The installation will create a new forensic hypervisor server based on QEMU.
 
 Additional Notes
 --------------------
 
 .. IMPORTANT::
-   ForensicVM requires administrator or root privileges for installation and running certain high-privilege operations like creating readonly windows shares!
+   ForensicVM requires administrator or root privileges for installation and to execute certain high-privilege operations, such as creating read-only Windows shares. This ensures that the software has the necessary permissions to perform critical functions securely.
 
 
