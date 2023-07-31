@@ -18,45 +18,37 @@ To shut down the forensicVM from the main plugin interface, follow these simple 
 
    b) Press the shutdown button to deactivate the virtual machine.
 
-2) Shut Down ForensicVM after Logging in to the Web Interface
+2) Shut Down ForensicVM after Logging in to the Web Remote Screen
 ------------------------------------------------------------
 
-To shut down the forensicVM through the web interface after login, you need to:
+To shut down the forensicVM through the web remote screen interface, you need to:
 
-   a) Open the login main page.
-
-   b) Enter your username and password, and then click on the login button.
-
+   1) Locate the shutdown icon.
+   2) Press the shutdown button to deactivate the virtual machine.
+   
    .. figure:: img/shutdown_vm_0002.jpg
       :alt: Login on the main web interface
       :align: center
 
       Login on the main web interface
 
-   c) Once logged in, locate the shutdown button for the selected forensicVM you wish to deactivate.
 
-   d) Press the shutdown button to deactivate the virtual machine.
-
-   .. figure:: img/shutdown_vm_0003.jpg
-      :alt: Shut down VM on the main web interface
-      :align: center
-
-      Shut down VM on the main web interface
-
-3) Shut Down ForensicVM on the Web Remote Screen
+3) Shut Down ForensicVM on the Web Interface
 ------------------------------------------------
 
 Another option to shut down the forensicVM is from the web remote screen. This method may be preferred if you are working remotely or through a particular service interface:
 
-   a) Navigate to the web remote screen.
+   a) Navigate to the web interface.
 
-   b) Locate the shutdown button, as shown in the figure below.
+   b) Locate the machine that you need to shutdown.
 
-   .. figure:: img/shutdown_vm_0004.jpg
-      :alt: Shut down VM on web remote screen
+   c) Locate and click the shutdown button, as shown in the figure below.
+
+   .. figure:: img/shutdown_vm_0003.jpg
+      :alt: Shut down VM on web interface
       :align: center
 
-      Shut down VM on the web remote screen
+      Shut down VM on the web interface
 
    c) Press the shutdown button to deactivate the virtual machine.
 
