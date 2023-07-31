@@ -3,6 +3,9 @@ Glossary
 
 .. glossary::
 
+   forensicVM
+      A specialized virtual machine that operates on a hypervisor and is utilized in digital forensic investigations. It is created through the conversion of a forensic image into a virtual machine format. The operating system is detected, and necessary drivers are installed to replicate the functionality of the original system. An initial snapshot is created to preserve the original state. The forensicVM simulates the original computer or server within a safe and controlled environment, allowing detailed examination without risk to other systems.
+
    ISO
       ISO 9660 (also known as ECMA-119) is a file system for optical disc media. The file system is an international standard available from the International Organization for Standardization (ISO). Since the specification is available for anybody to purchase, implementations have been written for many operating systems (Reference: https://en.wikipedia.org/wiki/ISO_9660)
 
