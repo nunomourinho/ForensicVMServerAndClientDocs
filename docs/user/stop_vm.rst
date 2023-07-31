@@ -49,4 +49,4 @@ Another option to stop the forensicVM is from the web interface. This method may
 
       Stop VM on the web interface
 
-These three methods ensure that you can stop the forensicVM from various points in the system, allowing for seamless control depending on your needs and preferences. Stopping the VM can be a temporary measure, allowing you to resume operation at a later time without completely shutting down the system.
+These three methods ensure that you can stop the forensicVM from various points in the system, allowing for seamless control depending on your needs and preferences. 
