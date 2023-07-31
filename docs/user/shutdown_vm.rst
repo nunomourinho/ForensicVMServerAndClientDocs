@@ -50,6 +50,5 @@ Another option to shut down the forensicVM is from the web remote screen. This m
 
       Shut down VM on the web interface
 
-   c) Press the shutdown button to deactivate the virtual machine.
-
+  
 These three methods ensure that you can shut down the forensicVM from various points in the system, allowing for seamless control depending on your needs and preferences.
