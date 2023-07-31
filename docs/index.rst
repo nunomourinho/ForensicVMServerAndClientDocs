@@ -1,4 +1,4 @@
-Welcome to ForensicVM documentation!
+Welcome to ::term:ForensicVM documentation!
 ===================================
 .. figure:: ForensicVM.jpg
    :alt: ForensicVM logo
@@ -30,7 +30,7 @@ Check out the :doc:`usage` section for further information, including how to :re
 
 .. toctree::
    :maxdepth: 3
-   :caption: Autopsy ForensicVM Plugin Manual
+   :caption: :term::ForensicVM Plugin Manual
 
    Introduction <user/introduction>
    System Requirements <user/system_requirements>    
@@ -42,7 +42,7 @@ Check out the :doc:`usage` section for further information, including how to :re
 
 .. toctree::
    :maxdepth: 3
-   :caption: ForensicVM hypervisor server Manual
+   :caption: ForensicVM Server Manual
 
    Introduction <admin/introduction>
    System Overview <admin/system_overview>
