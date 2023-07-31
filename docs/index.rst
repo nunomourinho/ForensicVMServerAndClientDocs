@@ -30,7 +30,7 @@ Check out the :doc:`usage` section for further information, including how to :re
 
 .. toctree::
    :maxdepth: 3
-   :caption: User Manual
+   :caption: Autopsy ForensicVM Plugin Manual
 
    Introduction <user/introduction>
    System Requirements <user/system_requirements>    
@@ -42,7 +42,7 @@ Check out the :doc:`usage` section for further information, including how to :re
 
 .. toctree::
    :maxdepth: 3
-   :caption: Administration Manual
+   :caption: ForensicVM hypervisor server Manual
 
    Introduction <admin/introduction>
    System Overview <admin/system_overview>
