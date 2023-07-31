@@ -3,7 +3,7 @@
    - [ ] Create a new page per action in usage
       - [ ] Virtualize - Convert to VM
       - [ ] Virtualize - Link to VM
-      - [ ] Start VM / web start
+      - [x] Start VM / web start
       - [ ] Open ForensicVM
       - [ ] Shutdown VM /web shutdown
       - [ ] Reset VM / web reset
