@@ -60,4 +60,4 @@ Another option to start the forensicVM is from the web remote screen. This metho
 
    c) Press the start button to initiate the virtual machine.
 
-These three methods ensure that you can initiate the forensicVM from various points in the system. This flexibility can be particularly useful in different scenarios depending on your particular needs and preferences. Please consult the user manual or reach out to the support team if you need additional assistance.
+These three methods ensure that you can initiate the forensicVM from various points in the system. 
