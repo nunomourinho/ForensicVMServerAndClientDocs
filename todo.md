@@ -4,10 +4,10 @@
       - [ ] Virtualize - Convert to VM
       - [ ] Virtualize - Link to VM
       - [x] Start VM / web start
-      - [ ] Open ForensicVM
-      - [ ] Shutdown VM /web shutdown
-      - [ ] Reset VM / web reset
-      - [ ] Stop VM
+      - [x] Open ForensicVM
+      - [x] Shutdown VM /web shutdown
+      - [x] Reset VM / web reset
+      - [x] Stop VM
       - [ ] Delete VM
       - [ ] Screenshot / Web screenshot
       - [ ] Save Screenshots
