@@ -25,4 +25,4 @@ This section provides a detailed guide on how to use ForensicVM in your forensic
 
    Screenshot Forensic Virtual Machine <screenshot_vm>      
 
-   Making, Downloading, and Analyzing a Memory Dump (memory_dump_vm)
+   Making, Downloading, and Analyzing a Memory Dump <memory_dump_vm>
