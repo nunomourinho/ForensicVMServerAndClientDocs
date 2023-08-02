@@ -239,20 +239,20 @@ Importing Screenshots to Autopsy Software
 
 This step-by-step guide helps you efficiently import the screenshots from the forensic virtual machine into Autopsy software for in-depth analysis, enabling a streamlined workflow and enhancing your investigation process.
 
-.. note:: Importance of Tagging Screenshots for Evidence
+.. note:: **Importance of Tagging Screenshots for Evidence**
    :class: attention
 
    Tagging screenshots in Autopsy forensic software is a pivotal step in digital investigations. It allows forensic professionals to systematically identify, analyze, and report on crucial visual information. Tagged screenshots can be included in final reports, where they may be presented as potential evidence in legal proceedings. The process ensures the integrity of visual data and contributes significantly to building a solid case.
 
 In the realm of digital forensics, Autopsy forensic software plays a crucial role in analyzing and managing evidence. A key feature of this powerful tool is its ability to handle screenshots, which are often vital in investigations.
 
-Tagging Relevant Screenshots: With Autopsy, investigators can sift through various images and screenshots collected during the forensic analysis. If certain images are identified as potentially relevant to a case, they can be tagged for further scrutiny. This tagging function is more than a mere organizational tool; it's a systematic way to highlight essential visual information that may prove crucial in understanding the digital activities related to a case.
+**Tagging Relevant Screenshots**: With Autopsy, investigators can sift through various images and screenshots collected during the forensic analysis. If certain images are identified as potentially relevant to a case, they can be tagged for further scrutiny. This tagging function is more than a mere organizational tool; it's a systematic way to highlight essential visual information that may prove crucial in understanding the digital activities related to a case.
 
-How to Tag: Simply right-click on the desired screenshot and select the "Tag" option. You may create custom tags or use predefined ones, adding notes or comments as necessary. This flexibility ensures that you can organize your screenshots in a way that suits your specific investigative needs.
+**How to Tag**: Simply right-click on the desired screenshot and select the "Tag" option. You may create custom tags or use predefined ones, adding notes or comments as necessary. This flexibility ensures that you can organize your screenshots in a way that suits your specific investigative needs.
 
-Inclusion in the Final Report: Tagged screenshots are not merely an intermediate step in the investigation. They often form an integral part of the final report. When compiling your findings, all tagged screenshot photos can be automatically included as potential evidence. They are presented in a well-organized manner, often alongside corresponding notes or observations made during the analysis phase.
+**Inclusion in the Final Report**: Tagged screenshots are not merely an intermediate step in the investigation. They often form an integral part of the final report. When compiling your findings, all tagged screenshot photos can be automatically included as potential evidence. They are presented in a well-organized manner, often alongside corresponding notes or observations made during the analysis phase.
 
-How to Include in Report: Typically, there's an option to include tagged items in the report generation process. Make sure to select this option to have all tagged screenshots appear in the final document.
+**How to Include in Report**: Typically, there's an option to include tagged items in the report generation process. Make sure to select this option to have all tagged screenshots appear in the final document.
 Presenting as Evidence: The end report, including the tagged screenshots, can be used in legal proceedings as possible evidence. The organized and systematic way in which these images are handled, analyzed, and reported in Autopsy ensures their integrity and admissibility in a court of law.
 
 In conclusion, the ability to tag relevant screenshots in Autopsy forensic software is not merely a feature but an essential process that enables precise analysis, reporting, and legal utilization of visual data. It allows forensic professionals to efficiently identify and focus on critical visual information, contributing to a more comprehensive and convincing presentation of evidence in any given case.
