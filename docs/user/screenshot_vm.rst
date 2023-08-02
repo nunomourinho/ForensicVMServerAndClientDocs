@@ -75,13 +75,19 @@ After capturing the necessary screenshots of the forensic virtual machine (foren
 
    a) A download progress bar will appear, showing the status of the download.
 
+   .. figure:: img/screenshot_vm_0005_1.jpg
+      :alt: Download progress
+      :align: center
+
+      Download progress
+
    b) Once the download is complete, an alert box will appear, saying that the screenshots were successfully downloaded.
 
    .. figure:: img/screenshot_vm_0005.jpg
-      :alt: Download progress and success alert
+      :alt: Success alert
       :align: center
 
-      Download progress and success alert
+      Success alert
 
 4) Open Windows Path with Screenshots.zip
 -----------------------------------------
