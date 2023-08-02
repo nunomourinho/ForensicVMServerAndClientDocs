@@ -33,31 +33,66 @@ Capturing a screenshot from the web screen interface is similarly straightforwar
 
 These methods enable you to capture visual records of the forensicVM from different points within the system, providing flexibility for various operational needs.
 
+Downloading Screenshots as a ZIP File
+======================================
 
-Download screenshots to local computer
----------------------------------------
-1) Press screenshot on 
+After capturing the necessary screenshots of the forensic virtual machine (forensicVM), you can download them all as a ZIP file. This process is done in four steps:
+
+1) Press the Save Screenshots Button
+------------------------------------
+
+   a) Navigate to the screenshots panel within the plugin interface.
+
+   b) Locate and press the "Save Screenshots" button.
 
    .. figure:: img/screenshot_vm_0003.jpg
-      :alt: Screenshot VM
+      :alt: Save screenshots button on the plugin interface
       :align: center
 
-      Screenshot VM
+      Save screenshots button on the plugin interface
+     
+2) Save As Dialogue with Default Path
+-------------------------------------
+
+   a) You will be presented with a "Save As" dialog box.
+
+   b) The default path for saving will be the forensic image path inside the Autopsy case path.
+
+   c) Confirm the save location and proceed.
 
    .. figure:: img/screenshot_vm_0004.jpg
-      :alt: Screenshot VM
+      :alt: Save As dialog with default path
       :align: center
 
-      Screenshot VM
+      Save As dialog with default path
+
+
+3) Download Progress and Success Alert
+--------------------------------------
+
+   a) A download progress bar will appear, showing the status of the download.
+
+   b) Once the download is complete, an alert box will appear, saying that the screenshots were successfully downloaded.
 
    .. figure:: img/screenshot_vm_0005.jpg
-      :alt: Screenshot VM
+      :alt: Download progress and success alert
       :align: center
 
-      Screenshot VM
+      Download progress and success alert
+
+4) Open Windows Path with Screenshots.zip
+-----------------------------------------
+
+   a) The Windows path where the `screenshots.zip` file is saved will be opened in Windows Explorer.
+
+   b) You can then access the ZIP file containing all the screenshots.
 
    .. figure:: img/screenshot_vm_0006.jpg
-      :alt: Screenshot VM
+      :alt: Windows path with screenshots.zip
       :align: center
 
-      Screenshot VM
+      Windows path with screenshots.zip
+
+These steps ensure an efficient and organized process for downloading the captured screenshots of the forensicVM, making it convenient for further use or analysis.
+
+
