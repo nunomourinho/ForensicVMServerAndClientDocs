@@ -101,6 +101,80 @@ These steps ensure an efficient and organized process for downloading the captur
 Importing screenshots to Autopsy Software
 ******************************************
 
+.. figure:: img/screenshot_vm_0007.jpg
+      :alt: Change
+      :align: center
 
+      Change
 
+.. figure:: img/screenshot_vm_0008.jpg
+      :alt: Change
+      :align: center
 
+      Change
+
+.. figure:: img/screenshot_vm_0009.jpg
+      :alt: Change
+      :align: center
+
+      Change
+
+.. figure:: img/screenshot_vm_0010.jpg
+      :alt: Change
+      :align: center
+
+      Change
+
+.. figure:: img/screenshot_vm_0011.jpg
+      :alt: Change
+      :align: center
+
+      Change
+
+.. figure:: img/screenshot_vm_0012.jpg
+      :alt: Change
+      :align: center
+
+      Change
+
+.. figure:: img/screenshot_vm_0013.jpg
+      :alt: Change
+      :align: center
+
+      Change
+
+.. figure:: img/screenshot_vm_0014.jpg
+      :alt: Change
+      :align: center
+
+      Change
+
+.. figure:: img/screenshot_vm_0015.jpg
+      :alt: Change
+      :align: center
+
+      Change
+
+.. figure:: img/screenshot_vm_0016.jpg
+      :alt: Change
+      :align: center
+
+      Change
+
+.. figure:: img/screenshot_vm_0017.jpg
+      :alt: Change
+      :align: center
+
+      Change
+
+.. figure:: img/screenshot_vm_0018.jpg
+      :alt: Change
+      :align: center
+
+      Change
+
+.. figure:: img/screenshot_vm_0019.jpg
+      :alt: Change
+      :align: center
+
+      Change
