@@ -30,3 +30,33 @@ In the context of legal proceedings, memory dumps might provide crucial evidence
 - **Unauthorized Access**: In cases of hacking or unauthorized access, memory dumps may hold evidence of the intrusion, including the tools used and the data targeted.
 - **Intellectual Property Theft**: If there is a suspicion of intellectual property theft, memory dumps can reveal whether sensitive documents were accessed, modified, or transferred.
 
+
+   .. figure:: img/memory_dump_0001.jpg
+      :alt: Change
+      :align: center
+
+      Change
+
+   .. figure:: img/memory_dump_0002.jpg
+      :alt: Change
+      :align: center
+
+      Change
+
+   .. figure:: img/memory_dump_0003.jpg
+      :alt: Change
+      :align: center
+
+      Change
+
+   .. figure:: img/memory_dump_0005.jpg
+      :alt: Change
+      :align: center
+
+      Change
+
+   .. figure:: img/memory_dump_0006.jpg
+      :alt: Change
+      :align: center
+
+      Change
