@@ -24,3 +24,5 @@ This section provides a detailed guide on how to use ForensicVM in your forensic
       This action can be used to quickly restart the system without manually shutting down and starting it again, useful for troubleshooting or applying certain updates.
 
    Screenshot Forensic Virtual Machine <screenshot_vm>      
+
+   Making, Downloading, and Analyzing a Memory Dump (memory_dump_vm)
