@@ -21,5 +21,6 @@ This section provides a detailed guide on how to use ForensicVM in your forensic
       A guide to halting the forensicVM immediately, temporarily pausing its operation without fully shutting it down. Useful for quick maintenance or updates.
 
    Reset Forensic Virtual Machine <reset_vm>
-      Explanation of how to immediately reboot the forensicVM. This action can be used to quickly restart the system without manually shutting down and starting it again, useful for troubleshooting or applying certain updates.
+      This action can be used to quickly restart the system without manually shutting down and starting it again, useful for troubleshooting or applying certain updates.
 
+   Screenshot Forensic Virtual Machine <screenshot_vm>      
