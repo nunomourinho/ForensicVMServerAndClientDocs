@@ -9,9 +9,9 @@
       - [x] Reset VM / web reset
       - [x] Stop VM
       - [ ] Delete VM
-      - [ ] Screenshot / Web screenshot
-      - [ ] Save Screenshots
-      - [ ] Make and Download Memmory Dump
+      - [x] Screenshot / Web screenshot
+      - [x] Save Screenshots
+      - [ ] Make and Download Memory Dump
       - [ ] Evidence Disk
          - [ ] Creation
          - [ ] Recolect evidence
