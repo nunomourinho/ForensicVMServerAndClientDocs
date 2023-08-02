@@ -6,13 +6,7 @@ It is often necessary to take screenshots of the forensic virtual machine (foren
 1) Capture Screenshot in the Main Autopsy Plugin Interface
 ----------------------------------------------------------
 
-To take a screenshot of the forensicVM from the main Autopsy plugin interface, follow these steps:
-
-   a) Navigate to the desired screen within the forensicVM.
-
-   b) Locate the screenshot icon or use the appropriate key command.
-
-   c) Save the screenshot to your desired location.
+To take a screenshot of the forensicVM from the main Autopsy plugin interface, please press the Screenshot button on the screenshot panel:
 
    .. figure:: img/screenshot_vm_0001.jpg
       :alt: Screenshot VM on the main Autopsy plugin interface
@@ -25,11 +19,11 @@ To take a screenshot of the forensicVM from the main Autopsy plugin interface, f
 
 Capturing a screenshot from the web screen interface is similarly straightforward:
 
-   a) Navigate to the web interface where the forensicVM is displayed.
+   a) Navigate to the web interface where the forensicVM is displayed. Expand the tools panel.
 
    b) Locate the screenshot icon or use the appropriate key command within the web interface.
 
-   c) Save the screenshot to your desired location.
+   c) Press the camera icon to take a screenshot.
 
    .. figure:: img/screenshot_vm_0002.jpg
       :alt: Screenshot VM on the web screen interface
@@ -38,4 +32,8 @@ Capturing a screenshot from the web screen interface is similarly straightforwar
       Screenshot VM on the web screen interface
 
 These methods enable you to capture visual records of the forensicVM from different points within the system, providing flexibility for various operational needs.
+
+
+Download screenshots to local computer
+---------------------------------------
 
