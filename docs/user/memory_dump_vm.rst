@@ -30,33 +30,56 @@ In the context of legal proceedings, memory dumps might provide crucial evidence
 - **Unauthorized Access**: In cases of hacking or unauthorized access, memory dumps may hold evidence of the intrusion, including the tools used and the data targeted.
 - **Intellectual Property Theft**: If there is a suspicion of intellectual property theft, memory dumps can reveal whether sensitive documents were accessed, modified, or transferred.
 
+Making and Downloading a Memory Dump
+====================================
+Follow the steps below to make and download a memory dump:
 
-   .. figure:: img/memory_dump_0001.jpg
-      :alt: Change
-      :align: center
+1) Press the "Make and Download Memory Dump" Button
+---------------------------------------------------
+Press the button labeled "Make and Download Memory Dump" to initiate the process.
 
-      Change
+.. figure:: img/memory_dump_0001.jpg
+   :alt: Press "Make and Download Memory Dump" button
+   :align: center
 
-   .. figure:: img/memory_dump_0002.jpg
-      :alt: Change
-      :align: center
+   Press "Make and Download Memory Dump" button
 
-      Change
+2) Save the Memory Dump on the Default ForensicVM Image Case Path
+-----------------------------------------------------------------
+Choose the default forensicVM image case path to save the memory dump.
 
-   .. figure:: img/memory_dump_0003.jpg
-      :alt: Change
-      :align: center
+.. figure:: img/memory_dump_0002.jpg
+   :alt: Save the memory dump
+   :align: center
 
-      Change
+   Save the memory dump
 
-   .. figure:: img/memory_dump_0005.jpg
-      :alt: Change
-      :align: center
+3) Monitor Memory Download Progress with Time Estimation
+-------------------------------------------------------
+Keep track of the download progress, including an estimated time remaining for the download to complete.
 
-      Change
+.. figure:: img/memory_dump_0003.jpg
+   :alt: Memory Download progress
+   :align: center
 
-   .. figure:: img/memory_dump_0006.jpg
-      :alt: Change
-      :align: center
+   Memory Download progress
 
-      Change
+4) Success Message Stating that the Memory was Saved as "memory.dump"
+--------------------------------------------------------------------
+A success message will appear, stating that the memory was saved as "memory.dump." The explorer will automatically open afterward.
+
+.. figure:: img/memory_dump_0005.jpg
+   :alt: Success message
+   :align: center
+
+   Success message
+
+5) Windows Explorer Open on the Memory Dump Folder
+--------------------------------------------------
+The Windows explorer will open automatically, displaying the folder containing the memory dump.
+
+.. figure:: img/memory_dump_0006.jpg
+   :alt: Windows explorer open on the memory dump folder
+   :align: center
+
+   Windows explorer open on the memory dump folder
