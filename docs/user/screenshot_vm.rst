@@ -36,4 +36,28 @@ These methods enable you to capture visual records of the forensicVM from differ
 
 Download screenshots to local computer
 ---------------------------------------
+1) Press screenshot on 
 
+   .. figure:: img/screenshot_vm_0003.jpg
+      :alt: Screenshot VM
+      :align: center
+
+      Screenshot VM
+
+   .. figure:: img/screenshot_vm_0004.jpg
+      :alt: Screenshot VM
+      :align: center
+
+      Screenshot VM
+
+   .. figure:: img/screenshot_vm_0005.jpg
+      :alt: Screenshot VM
+      :align: center
+
+      Screenshot VM
+
+   .. figure:: img/screenshot_vm_0006.jpg
+      :alt: Screenshot VM
+      :align: center
+
+      Screenshot VM
