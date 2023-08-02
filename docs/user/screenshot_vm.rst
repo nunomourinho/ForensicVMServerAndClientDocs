@@ -1,5 +1,8 @@
-Taking Screenshots of the Virtual Machine (VM)
-==============================================
+Making and importing Screenshots
+================================
+
+Making screenshots
+*******************
 
 It is often necessary to take screenshots of the forensic virtual machine (forensicVM) for documentation, analysis, or reporting purposes. There are two primary ways to capture a screenshot, depending on your location within the system interface:
 
@@ -34,7 +37,7 @@ Capturing a screenshot from the web screen interface is similarly straightforwar
 These methods enable you to capture visual records of the forensicVM from different points within the system, providing flexibility for various operational needs.
 
 Downloading Screenshots as a ZIP File
-======================================
+*************************************
 
 After capturing the necessary screenshots of the forensic virtual machine (forensicVM), you can download them all as a ZIP file. This process is done in four steps:
 
@@ -94,5 +97,10 @@ After capturing the necessary screenshots of the forensic virtual machine (foren
       Windows path with screenshots.zip
 
 These steps ensure an efficient and organized process for downloading the captured screenshots of the forensicVM, making it convenient for further use or analysis.
+
+Importing screenshots to Autopsy Software
+******************************************
+
+
 
 
