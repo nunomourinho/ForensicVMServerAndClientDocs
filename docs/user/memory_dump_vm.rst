@@ -84,7 +84,7 @@ The Windows explorer will open automatically, displaying the folder containing t
 
 
 Importing and Analyzing a Memory Dump in Autopsy
-================================================
+************************************************
 
 1) Copy the Path of the Memory Dump from Windows Explorer
 --------------------------------------------------------
