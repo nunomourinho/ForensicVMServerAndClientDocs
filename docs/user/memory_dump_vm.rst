@@ -229,3 +229,33 @@ With the import process complete, you can now find the imported memory dump with
    :align: center
 
    Locate and browse the memory dump
+
+
+Aditional Tools to analyse memory dumps
+****************************************
+Analyzing memory dumps is a vital task in computer forensics, malware analysis, and system diagnostics. Several tools have been developed to support this task. Here's an overview of some widely-used tools other than Autopsy for memory dump analysis:
+
+1. **Volatility**: `Volatility <https://www.volatilityfoundation.org/>`_ is an open-source memory forensics framework. `Documentation <https://github.com/volatilityfoundation/volatility/wiki>`_.
+
+2. **Rekall**: `Rekall <https://github.com/google/rekall>`_ offers a set of features for memory forensics. `Documentation <http://www.rekall-forensic.com/documentation-1/rekall-documentation>`_.
+
+3. **WinDbg**: Microsoft's `WinDbg <https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/debugger-download-tools>`_ for debugging Windows applications and analyzing memory dumps.
+
+4. **Magnet RAM Capture**: `Magnet RAM Capture <https://www.magnetforensics.com/resources/magnet-ram-capture>`_ is a free tool for capturing physical RAM.
+
+5. **FTK Imager**: AccessData's `FTK Imager <https://www.exterro.com/ftk-imager>`_ for capturing and analyzing memory dumps.
+
+6. **MoonSols DumpIt**: `MoonSols DumpIt <https://web.archive.org/web/20160112114857/http://www.moonsols.com/wp-content/uploads/downloads/2011/07/DumpIt.zip>`_ for creating memory dumps from Windows systems.
+
+7. **Redline**: Provided by FireEye, `Redline <https://fireeye.market/apps?query=memory>`_ offers advanced memory and file analysis capabilities.
+
+8. **MemGator**: A lightweight tool for memory acquisition (information might be found in various forensics forums or specialized sites).
+
+9. **GRR (Google Rapid Response)**: `GRR <https://github.com/google/grr>`_ an incident response framework that includes memory analysis capabilities. `Documentation <https://grr-doc.readthedocs.io/en/latest/>`_.
+
+10. **Belkasoft Evidence Center**: `Belkasoft Evidence Center <https://belkasoft.com/x>`_ includes the ability to analyze computer memory.
+
+11. **X-Ways Forensics**: `X-Ways Forensics <https://www.x-ways.net/forensics/index-m.html>`_ a commercial product with strong memory analysis features.
+
+These tools offer a wide range of capabilities, from capturing memory images to detailed analysis. Depending on the specific requirements of the analysis, an investigator might choose one or several of these tools.
+
