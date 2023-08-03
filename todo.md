@@ -11,7 +11,12 @@
       - [ ] Delete VM
       - [x] Screenshot / Web screenshot
       - [x] Save Screenshots
-      - [ ] Make and Download Memory Dump
+      - [x] Make and Download Memory Dump
+      - [ ] Web Record video
+         - [ ] Start recording
+         - [ ] Recording progress
+         - [ ] Stop recording
+         - [ ] Video download
       - [ ] Evidence Disk
          - [ ] Creation
          - [ ] Recolect evidence
@@ -32,11 +37,6 @@
          - [ ] Eject ISO /web enject cdrom
          - [ ] Browse and upload ISO
          - [ ] Delete ISO
-      - [ ] Web Record video
-         - [ ] Start recording
-         - [ ] Recording progress
-         - [ ] Stop recording
-         - [ ] Video download
       - [ ] Plugins
         - [ ] Add forensic admin
         - [ ] Reset Windows XP or Windows 2003 Activation
