@@ -139,3 +139,15 @@ Importing and analysing a memory dump in autopsy
    :align: center
 
    Change
+
+.. figure:: img/memory_dump_0016.jpg
+   :alt: Change
+   :align: center
+
+   Change
+
+.. figure:: img/memory_dump_0017.jpg
+   :alt: Change
+   :align: center
+
+   Change
