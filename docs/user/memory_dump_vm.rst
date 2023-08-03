@@ -83,6 +83,59 @@ The Windows explorer will open automatically, displaying the folder containing t
    Windows explorer open on the memory dump folder
 
 
-Analysing a memory dump in autopsy
-**********************************
+Importing and analysing a memory dump in autopsy
+*************************************************
 
+.. figure:: img/memory_dump_0007.jpg
+   :alt: Change
+   :align: center
+
+   Change
+
+.. figure:: img/memory_dump_0008.jpg
+   :alt: Change
+   :align: center
+
+   Change
+
+.. figure:: img/memory_dump_0009.jpg
+   :alt: Change
+   :align: center
+
+   Change
+
+.. figure:: img/memory_dump_0010.jpg
+   :alt: Change
+   :align: center
+
+   Change
+
+.. figure:: img/memory_dump_0011.jpg
+   :alt: Change
+   :align: center
+
+   Change
+
+.. figure:: img/memory_dump_0012.jpg
+   :alt: Change
+   :align: center
+
+   Change
+
+.. figure:: img/memory_dump_0013.jpg
+   :alt: Change
+   :align: center
+
+   Change
+
+.. figure:: img/memory_dump_0014.jpg
+   :alt: Change
+   :align: center
+
+   Change
+
+.. figure:: img/memory_dump_0015.jpg
+   :alt: Change
+   :align: center
+
+   Change
