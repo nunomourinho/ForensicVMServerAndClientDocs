@@ -12,11 +12,11 @@
       - [x] Screenshot / Web screenshot
       - [x] Save Screenshots
       - [x] Make and Download Memory Dump
-      - [ ] Web Record video
-         - [ ] Start recording
-         - [ ] Recording progress
-         - [ ] Stop recording
-         - [ ] Video download
+      - [x] Web Record video
+         - [x] Start recording
+         - [x] Recording progress
+         - [x] Stop recording
+         - [x] Video download
       - [ ] Evidence Disk
          - [ ] Creation
          - [ ] Recolect evidence
@@ -37,6 +37,7 @@
          - [ ] Eject ISO /web enject cdrom
          - [ ] Browse and upload ISO
          - [ ] Delete ISO
+         - [ ] Botable Media: How to boot a cdrom
       - [ ] Plugins
         - [ ] Add forensic admin
         - [ ] Reset Windows XP or Windows 2003 Activation
