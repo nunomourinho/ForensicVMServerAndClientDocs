@@ -55,72 +55,73 @@ Webrecord video
       :alt: Press "Download" button
       :align: center
 
-10. **After the video is downloaded, in the web browser, please open the download folder where the video file is.**
+10. **Download started message**
 
    .. figure:: img/webrecord_video_0010.jpg
+      :alt: Downlaod started message
+      :align: center
+
+11. **After the video is downloaded, in the web browser, please open the download folder where the video file is.**
+
+   .. figure:: img/webrecord_video_0011.jpg
       :alt: Locate downloaded file
       :align: center
 
-11. **With the shift key pressed, press the right-click on the mouse over the video file. Then select the "Copy as path" option on the menu.**
+12. **With the shift key pressed, press the right-click on the mouse over the video file. Then select the "Copy as path" option on the menu.**
 
-   .. figure:: img/webrecord_video_0011.jpg
+   .. figure:: img/webrecord_video_0012.jpg
       :alt: Copy as path
       :align: center
 
-12. **Open Autopsy software. On the menu bar, please click the "Add Data Source" button.**
+13. **Open Autopsy software. On the menu bar, please click the "Add Data Source" button.**
 
-   .. figure:: img/webrecord_video_0012.jpg
+   .. figure:: img/webrecord_video_0013.jpg
       :alt: Open Autopsy
       :align: center
 
-13. **Select the host and click next.**
+14. **Select the host and click next.**
 
-   .. figure:: img/webrecord_video_0013.jpg
+   .. figure:: img/webrecord_video_0014.jpg
       :alt: Select host
       :align: center
 
-14. **Select Logical Files and click next.**
+15. **Select Logical Files and click next.**
 
-   .. figure:: img/webrecord_video_0014.jpg
+   .. figure:: img/webrecord_video_0015.jpg
       :alt: Select Logical Files
       :align: center
 
-15. **Click Add to select the video.**
+16. **Click Add to select the video.**
 
-   .. figure:: img/webrecord_video_0015.jpg
+   .. figure:: img/webrecord_video_0016.jpg
       :alt: Click Add
       :align: center
 
-16. **Paste the path in the "File name:" field and click the "Select" button.**
+17. **Paste the path in the "File name:" field and click the "Select" button.**
 
-   .. figure:: img/webrecord_video_0016.jpg
+   .. figure:: img/webrecord_video_0017.jpg
       :alt: Select video
       :align: center
 
-17. **Click Next.**
+18. **Click Next.**
 
-   .. figure:: img/webrecord_video_0017.jpg
+   .. figure:: img/webrecord_video_0018.jpg
       :alt: Click Next
       :align: center
 
-18. **Deselect all ingest plugins and click next.**
+19. **Deselect all ingest plugins and click next.**
 
-   .. figure:: img/webrecord_video_0018.jpg
+   .. figure:: img/webrecord_video_0019.jpg
       :alt: Deselect plugins
       :align: center
 
-19. **Click Finish.**
+20. **Click Finish.**
 
-   .. figure:: img/webrecord_video_0019.jpg
+   .. figure:: img/webrecord_video_0020.jpg
       :alt: Click Finish
       :align: center
 
-20. **1. Select the video file, 2. With the mouse right-click, "Add a File Tag", 3. Select the tag that is relevant to the forensic investigation.**
-
-   .. figure:: img/webrecord_video_0020.jpg
-      :alt: Tagging video
-      :align: center
-
+21. **1. Select the video file, 2. With the mouse right-click, "Add a File Tag", 3. Select the tag that is relevant to the forensic investigation.**
 
    .. figure:: img/webrecord_video_0021.jpg
       :alt: Tagging video
