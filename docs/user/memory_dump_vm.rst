@@ -83,71 +83,115 @@ The Windows explorer will open automatically, displaying the folder containing t
    Windows explorer open on the memory dump folder
 
 
-Importing and analysing a memory dump in autopsy
-*************************************************
+Importing and Analyzing a Memory Dump in Autopsy
+================================================
+
+1) Copy the Path of the Memory Dump from Windows Explorer
+--------------------------------------------------------
+First, navigate to the location of the memory dump file in Windows Explorer, right-click on the file, and select "Copy path."
 
 .. figure:: img/memory_dump_0007.jpg
-   :alt: Change
+   :alt: Copy the path of the memory dump
    :align: center
 
-   Change
+   Copy the path of the memory dump
+
+2) Press the "Add Data Source" Button on the Autopsy Software
+-------------------------------------------------------------
+In Autopsy, press the "Add Data Source" button to begin importing the memory dump.
 
 .. figure:: img/memory_dump_0008.jpg
-   :alt: Change
+   :alt: Press "Add Data Source"
    :align: center
 
-   Change
+   Press "Add Data Source"
+
+3) Select the Host to Where the Memory Dump Should be Made and Press Next
+-------------------------------------------------------------------------
+Choose the host where you want to make the memory dump, then press "Next."
 
 .. figure:: img/memory_dump_0009.jpg
-   :alt: Change
+   :alt: Select the host
    :align: center
 
-   Change
+   Select the host
+
+4) Select as Data Source Type the "Memory Image File (Volatility)" and Press Next
+--------------------------------------------------------------------------------
+Select "Memory Image File (Volatility)" as the Data Source Type, then press "Next."
 
 .. figure:: img/memory_dump_0010.jpg
-   :alt: Change
+   :alt: Select Memory Image File (Volatility)
    :align: center
 
-   Change
+   Select Memory Image File (Volatility)
+
+5) Click the "Browse" Button to Select the Path Where the Memory Dump Is
+------------------------------------------------------------------------
+Click the "Browse" button, then navigate to the path where the memory dump is located.
 
 .. figure:: img/memory_dump_0011.jpg
-   :alt: Change
+   :alt: Click "Browse" button
    :align: center
 
-   Change
+   Click "Browse" button
+
+6) Paste the "memory.dump" Path, Select the memory.dump File, and Press Open
+--------------------------------------------------------------------------
+Paste the previously copied path, select the "memory.dump" file, and press "Open."
 
 .. figure:: img/memory_dump_0012.jpg
-   :alt: Change
+   :alt: Paste and select the memory.dump file
    :align: center
 
-   Change
+   Paste and select the memory.dump file
+
+7) Configure Timezone, Memory Profile, and Plugins to Run. Press Next
+----------------------------------------------------------------------
+Configure the appropriate timezone, memory profile, and select any plugins to run. Press "Next."
 
 .. figure:: img/memory_dump_0013.jpg
-   :alt: Change
+   :alt: Configure settings
    :align: center
 
-   Change
+   Configure settings
+
+8) Deselect All Plugins and Press Next
+--------------------------------------
+Deselect any unwanted plugins, then press "Next."
 
 .. figure:: img/memory_dump_0014.jpg
-   :alt: Change
+   :alt: Deselect plugins
    :align: center
 
-   Change
+   Deselect plugins
+
+9) Wait Until the Memory Ingest Module is Finished
+--------------------------------------------------
+This step can take several minutes or even hours to complete. Please be patient.
 
 .. figure:: img/memory_dump_0015.jpg
-   :alt: Change
+   :alt: Ingesting memory
    :align: center
 
-   Change
+   Ingesting memory
+
+10) Check for Errors and Press "Finish"
+--------------------------------------
+Once the process is complete, a dialog appears. Check for any errors by pressing the "View Log" button, and press "Finish" to conclude the process.
 
 .. figure:: img/memory_dump_0016.jpg
-   :alt: Change
+   :alt: Press "Finish"
    :align: center
 
-   Change
+   Press "Finish"
+
+11) Locate the Memory Dump on the Interface and Browse the Results
+-------------------------------------------------------------------
+Find the imported memory dump in Autopsy's interface, and browse the results. Tag any findings that may be interesting or relevant to the investigation.
 
 .. figure:: img/memory_dump_0017.jpg
-   :alt: Change
+   :alt: Locate and browse the memory dump
    :align: center
 
-   Change
+   Locate and browse the memory dump
