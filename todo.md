@@ -1,6 +1,6 @@
 - [x] Edit first pages
 - [x] Enumerate Autopsy forensicVM actions
-   - [ ] Create a new page per action in usage
+   - [x] Create a new page per action in usage
       - [ ] Virtualize - Convert to VM
       - [ ] Virtualize - Link to VM
       - [x] Start VM / web start
