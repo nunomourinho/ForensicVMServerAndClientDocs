@@ -1,8 +1,8 @@
 Making, Downloading, and Analyzing a Memory Dump (memory_dump_vm)
 =================================================================
 
-Making a Memory Dump
-*********************
+Making and download a Memory Dump
+*********************************
 Making a memory dump refers to the process of capturing the content of a computer's memory (RAM) at a specific moment in time. This snapshot can include various elements, ranging from currently running processes to user credentials and even the contents of open files. The practice is critical for several reasons:
 
 Security Analysis
@@ -81,3 +81,8 @@ The Windows explorer will open automatically, displaying the folder containing t
    :align: center
 
    Windows explorer open on the memory dump folder
+
+
+Analysing a memory dump in autopsy
+**********************************
+
